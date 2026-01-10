@@ -1,0 +1,3727 @@
+[
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Sun'iy intellekt (AI) atamasining eng umumiy ta'rifi qanday?",
+    "variantlar": [
+      "Faqatgina matematik hisob-kitoblarni bajaruvchi dastur",
+      "Inson kabi fikrlash, qaror qabul qilish va o‘rganish qobiliyatiga ega tizimlar",
+      "Faqat katta hajmdagi ma'lumotlarni saqlovchi baza",
+      "Kompyuterlarning grafik imkoniyatlarini oshirish texnologiyasi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Alan Tyuring tomonidan taklif etilgan «Tyuring testi»ning asosiy maqsadi nima?",
+    "variantlar": [
+      "Kompyuterning hisoblash tezligini aniqlash",
+      "Dasturning xatolarini topish",
+      "Mashinaning inson kabi fikrlay olish qobiliyatini aniqlash",
+      "Ma'lumotlar bazasining xavfsizligini tekshirish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Kuchli sun'iy intellekt» tushunchasi nimani anglatadi?",
+    "variantlar": [
+      "Faqat shaxmat o‘ynay oladigan tizim",
+      "Inson aqli darajasida fikrlay oladigan va har qanday intellektual vazifani bajara oladigan tizim",
+      "Ma'lum bir tor doiradagi vazifani bajaruvchi tizim",
+      "Internetga ulanmagan kompyuter"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Kuchsiz sun'iy intellekt»ga misol qaysi?",
+    "variantlar": [
+      "O‘zini-o‘zi tushunadigan robot",
+      "Inson kabi hissiyotga ega tizim",
+      "Siri, Google Assistant kabi ovozli yordamchilar",
+      "Kelajakni 100% aniqlikda bashorat qiluvchi tizim"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Sun'iy intellektning rivojlanish tendensiyasida qaysi yo‘nalish hozirda eng ko‘p tarqalgan hisoblanadi?",
+    "variantlar": [
+      "Chuqur o‘qitish va neyron tarmoqlar",
+      "Faqatgina mantiqiy qoidalarga asoslangan tizimlar",
+      "Ekspert tizimlari",
+      "Perseptronlar"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ma'lumotlarni intellektual tahlil qilish (Data Mining) jarayonining asosiy maqsadi nima?",
+    "variantlar": [
+      "Ma'lumotlarni oddiy saqlash",
+      "Katta hajmdagi ma'lumotlar ichidan yashirin qonuniyatlar va yangi bilimlarni ajratib olish",
+      "Ma'lumotlarni o‘chirib tashlash",
+      "Kompyuter tezligini oshirish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ma'lumotlarni tozalash jarayonida nima amalga oshiriladi?",
+    "variantlar": [
+      "Ma'lumotlar hajmi orttiriladi",
+      "Barcha ma'lumotlar shifrlanadi",
+      "Shovqinlar, xatoliklar va yetishmayotgan qiymatlar bartaraf etiladi",
+      "Ma'lumotlar grafik ko‘rinishga o‘tkaziladi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ma'lumotlar integratsiyasi deganda nima tushuniladi?",
+    "variantlar": [
+      "Turli manbalardan olingan ma'lumotlarni yagona bazaga birlashtirish",
+      "Ma'lumotlarni bo‘limlarga ajratish",
+      "Ma'lumotlarni arxivlash",
+      "Ma'lumotlarni bosib chiqarish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ma'lumotlarni normallashtirish (Normalizatsiya) nega kerak?",
+    "variantlar": [
+      "Ma'lumotlarni kamaytirish uchun",
+      "Turli o‘lchov birligidagi ma'lumotlarni bir xil diapazonga (masalan, 0 va 1 oralig‘iga) keltirish uchun",
+      "Ma'lumotlarni tartibsizlantirish uchun",
+      "Faqat matnli ma'lumotlarni ishlash uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Izlash algoritmlaridan biri bo‘lgan «Kenglik bo‘yicha izlash» (BFS) qanday ishlaydi?",
+    "variantlar": [
+      "Daraxtning barcha qo‘shni tugunlarini ko‘rib chiqib, so‘ng keyingi qavatga o‘tadi",
+      "Daraxtning imkon qadar chuqur qismiga borib, keyin qaytadi",
+      "Tasodifiy tugunlarni tanlaydi",
+      "Faqat o‘ng tarafdagi tugunlarni tekshiradi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Chuqurlik bo‘yicha izlash» (DFS) algoritmidagi qanday ma'lumotlar strukturasidan foydalaniladi?",
+    "variantlar": [
+      "Navbat",
+      "Stek",
+      "Massiv",
+      "Lug‘at"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Intellektual agent deb nimaga aytiladi?",
+    "variantlar": [
+      "Faqat kuzatuvchi dasturga",
+      "Muhitni sezuvchi va maqsadga erishish uchun unda harakat qiluvchi tizimga",
+      "Faqat buyruq bajaruvchi robotga",
+      "Kompyuter virusiga"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Agent muhitdan ma'lumotni nima orqali qabul qiladi?",
+    "variantlar": [
+      "Ijrochi mexanizmlar orqali",
+      "Sensorlar orqali",
+      "Protsessor orqali",
+      "Qattiq disk orqali"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Agent muhitga ta'sir o‘tkazish uchun nimadan foydalanadi?",
+    "variantlar": [
+      "Sensorlardan",
+      "Aktuatorlardan (Ijrochilardan)",
+      "Monitor",
+      "Klaviatura"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Ratsional agent» deganda qanday agent tushuniladi?",
+    "variantlar": [
+      "Har doim xato qiladigan agent",
+      "Faqat tasodifiy harakat qiladigan agent",
+      "Bor ma'lumotlar asosida eng yaxshi natijani (maksimal foydani) ko‘zlaydigan agent",
+      "Juda sekin ishlaydigan agent"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Refleksiv agent (Simple Reflex Agent) qanday qaror qabul qiladi?",
+    "variantlar": [
+      "O‘tmishdagi barcha voqealarni tahlil qiladi",
+      "Faqat hozirgi holatga (qabul qilingan signalga) tayanib, oldindan belgilangan qoida bo‘yicha harakat qiladi",
+      "Kelajakdagi oqibatlarni rejalashtiradi",
+      "Boshqa agentlar bilan maslahatlashadi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Bilimlar bazasi nima?",
+    "variantlar": [
+      "Oddiy ma'lumotlar ombori",
+      "Ma'lum bir soha bo‘yicha faktlar va qoidalar to‘plami",
+      "Internetdagi barcha saytlar",
+      "Kompyuterning operativ xotirasi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Bilimlarni ifodalashning «Produktsion modeli» qanday ko‘rinishda bo‘ladi?",
+    "variantlar": [
+      "Jadval ko‘rinishida",
+      "Grafika ko‘rinishida",
+      "«AGAR... UNDA...» (IF-THEN) qoidalari ko‘rinishida",
+      "Neyron tarmoq vaznlari ko‘rinishida"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Freym» (Frame) modeli bilimlarni qanday tasvirlaydi?",
+    "variantlar": [
+      "Ob'ektlar va ularning xususiyatlarini (slotlarini) o‘z ichiga olgan struktura sifatida",
+      "Mantiqiy formulalar sifatida",
+      "Ehtimollik taqsimoti sifatida",
+      "Chiziqli tenglama sifatida"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Semantik to‘r (Semantic Network) modelida tugunlar va yoylar nimani bildiradi?",
+    "variantlar": [
+      "Tugunlar - sonlar, yoylar - amallar",
+      "Tugunlar - tushunchalar, yoylar - ular orasidagi munosabatlar",
+      "Tugunlar - veb saytlar, yoylar - havolalar",
+      "Tugunlar - neyronlar, yoylar - sinapslar"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Bayes teoremasi sun'iy intellektda asosan nima uchun qo‘llaniladi?",
+    "variantlar": [
+      "Ma'lumotlarni tezkor qidirish uchun",
+      "Tasvirlarni chizish uchun",
+      "Noaniqlik sharoitida ehtimolliklarni hisoblash va qaror qabul qilish uchun",
+      "Matnlarni tarjima qilish uchun"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ekspert tizimi nima?",
+    "variantlar": [
+      "Barcha masalalarni yecha oladigan universal dastur",
+      "Tor ixtisoslashgan sohada inson-ekspert kabi maslahat bera oladigan va qaror qabul qiladigan dasturiy ta'minot",
+      "Operatsion tizimning bir turi",
+      "Viruslarga qarshi dastur"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ekspert tizimida «Mantiqiy xulosa chiqarish mashinasi» nima vazifani bajaradi?",
+    "variantlar": [
+      "Foydalanuvchi bilan so‘zlashadi",
+      "Bilimlarni saqlaydi",
+      "Bilimlar bazasidagi qoidalarni qo‘llab, yangi xulosalar chiqaradi",
+      "Tizimni viruslardan qo‘riqlaydi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ekspert tizimini yaratishda «Bilim muhandisi» (Knowledge engineer) kim?",
+    "variantlar": [
+      "Ekspertdan bilimlarni olib, kompyuter tushunadigan turga o‘tkazuvchi",
+      "Tizimdan foydalanuvchi oddiy inson",
+      "Kompyuterni tuzatuvchi usta",
+      "Faqat dastur kodini yozuvchi dasturchi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Mashinaviy o‘qitishning an'anaviy dasturlashdan asosiy farqi nimada?",
+    "variantlar": [
+      "Hech qanday farqi yo‘q",
+      "An'anaviy dasturlashda ma'lumotlar bo‘lmaydi",
+      "Mashina qoidalarni o‘zi ma'lumotlar asosida o‘rganadi, an'anaviy tarzda esa qoidalar dasturchi tomonidan yoziladi",
+      "Mashinaviy o‘qitishda kompyuter ishlatilmaydi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Nazorat ostidagi o‘qitish» (Supervised learning) nima?",
+    "variantlar": [
+      "Ma'lumotlarda javoblar bo‘lmaydi",
+      "Model kiruvchi ma'lumotlar va ularga mos keluvchi to‘g‘ri javoblar (teglar) asosida o‘qitiladi",
+      "Agent mukofot va jazo orqali o‘qiydi",
+      "Ma'lumotlar klasterlarga ajratiladi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Nazoratsiz o‘qitish» (Unsupervised learning) qanday ishlaydi?",
+    "variantlar": [
+      "To‘g‘ri javoblar oldindan beriladi",
+      "To‘g‘ri javoblar berilmaydi, algoritm ma'lumotlar ichidagi strukturani o‘zi topadi",
+      "O‘qituvchi ishtirokida dars o‘tiladi",
+      "Model xato qilganda jazolanadi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Mustahkamlovchi o‘qitishning (Reinforcement learning) asosiy prinsipi nima?",
+    "variantlar": [
+      "Ma'lumotlarni tozalash",
+      "Tasvirlarni tanish",
+      "Agentning muhit bilan o‘zaro ta'siri, mukofot olishga intilishi va jazodan qochishi",
+      "Matnlarni tarjima qilish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Nazorat ostidagi o‘qitishda qanday turdagi masalalar yechiladi?",
+    "variantlar": [
+      "Regressiya va klassifikatsiya (klaslarga bo‘lish)",
+      "Klasterlash va birlashtirish",
+      "O‘lchamlarni qisqartirish",
+      "Ma'lumotlarni siqish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Haddan tashqari o‘qitib yuborish» (Overfitting) hodisasi nima?",
+    "variantlar": [
+      "Modelning juda sekin ishlashi",
+      "Modelning hech narsani o‘rganmasligi",
+      "Modelning o‘quv ma'lumotlarini yodlab olishi va yangi ma'lumotlarda yomon natija ko‘rsatishi",
+      "Modelning ma'lumotlarni o‘chirib yuborishi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Regressiya masalasi qanday natijani bashorat qilishga qaratilgan?",
+    "variantlar": [
+      "Klass nomi (masalan: «Mushuk» yoki «Kuchuk»)",
+      "Uzluksiz sonli qiymatni",
+      "Guruh raqamini",
+      "Tasvir rangini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Klassifikatsiyalash masalasiga misol qaysi?",
+    "variantlar": [
+      "Ertangi havo haroratini aniq gradusda topish",
+      "Aksiyalar narxini bashorat qilish",
+      "Kelgan xatni «Spam» yoki «Spam emas»ligini aniqlash",
+      "Mijozning yoshini hisoblash"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Chiziqli regressiya modeli qanday funksiyani anglatadi?",
+    "variantlar": [
+      "y=wx+b (to‘g‘ri chiziq tenglamasi)",
+      "y = sinx",
+      "y = e",
+      "y = logx"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Chiziqli regressiyada «Xatolik funksiyasi» nimani hisoblaydi?",
+    "variantlar": [
+      "Modelning ishlash tezligini",
+      "Bashorat qilingan qiymat va haqiqiy qiymat orasidagi xatolikni (masalan, MSE)",
+      "Ma'lumotlar hajmini",
+      "O‘zgaruvchilar sonini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Logistik regressiya qaysi turdagi masalalar uchun qo‘llaniladi?",
+    "variantlar": [
+      "Regressiya (sonli qiymatni topish)",
+      "Ehtimollikni aniqlash orqali klassifikatsiyalash",
+      "Klasterlash",
+      "Ma'lumotlarni siqish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Logistik regressiyada qiymatlarni 0 va 1 oralig‘iga o‘tkazuvchi funksiya qaysi?",
+    "variantlar": [
+      "ReLU",
+      "Sigmoid",
+      "Tangens",
+      "Chiziqli funksiya"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Qaror chegarasi» (Decision boundary) nima?",
+    "variantlar": [
+      "Dasturning ishlash chegarasi",
+      "Ma'lumotlar bazasining hajmi",
+      "Klasslarni bir-biridan ajratib turuvchi chiziq yoki gipertekislik",
+      "Xatolikning eng yuqori nuqtasi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "K-yaqin qo‘shnilar (KNN) algoritmi qanday ishlaydi?",
+    "variantlar": [
+      "Murakkab matematik formulalar orqali",
+      "Yangi nuqtaga eng yaqin bo‘lgan «K» ta qo‘shnining sinfiga qarab qaror qabul qiladi",
+      "Daraxt shoxlari orqali",
+      "Ehtimollik nazariyasi orqali"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Soddadill Bayes algoritmi nima uchun «Sodda» (Naive) deb ataladi?",
+    "variantlar": [
+      "U juda sekin ishlaydi",
+      "U barcha belgilarni bir-biridan mustaqil deb faraz qiladi",
+      "U faqatgina matnlar bilan ishlaydi",
+      "U hech qanday matematikaga asoslanmagan"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Klasterlash masalasining maqsadi nima?",
+    "variantlar": [
+      "O‘xshash xususiyatlarga ega bo‘lgan ob'ektlarni guruhlarga (klasterlarga) ajratish",
+      "«Kelajakdagi qiymatni bashorat qilish»",
+      "Tasvirdagi ob'ekt otini topish",
+      "Xatolikni hisoblash"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "K-Means algoritmi qanday ishlaydi?",
+    "variantlar": [
+      "Daraxt shoxlari orqali qaror qabul qiladi",
+      "Har bir nuqta orasidagi masofani hisoblaydi",
+      "Ma'lumotlarni «K» ta markaz (sentroid) atrofida guruhlaydi va markazlarni iterativ",
+      "Neyron tarmoq orqali ishlaydi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Adashish matritsasi (Confusion Matrix) nima?",
+    "variantlar": [
+      "Neyron tarmog‘ining vaznlari jadvali",
+      "Klassifikatsiyalash modeli natijalarini (TP, TN, FP, FN) ko‘rsatuvchi jadval",
+      "Ma'lumotlarni shifrlash usuli",
+      "Regressiya xatoligi grafigi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Aniqlik darajasi (Precision) nimani anglatadi?",
+    "variantlar": [
+      "Model barcha ijobiy klasslarni qanchalik topa olgani",
+      "Model «Pozitiv» deb bashorat qilganlarning qanchasi haqiqatdan ham musbat ekanligi",
+      "Umumiy to‘g‘ri javoblar foizi",
+      "Modelning ishlash tezligi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Qamrov (Recall) nimani anglatadi?",
+    "variantlar": [
+      "Haqiqiy musbat sinflarning qanchasini model to‘g‘ri topa olgani",
+      "Xato bashoratlar soni",
+      "«O‘ng» deb topilganlarning aniqligi",
+      "Modelning o‘qish vaqti"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Sun'iy neyron tarmoqlari nimadan ilhomlanib yaratilgan?",
+    "variantlar": [
+      "Kompyuter protsessoridan",
+      "Inson miyasining biologik neyron tuzilishidan",
+      "Quyosh sistemasidan",
+      "Elektr zanjirlaridan"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Eng oddiy neyron tarmoq modeli qanday ataladi?",
+    "variantlar": [
+      "Transformator",
+      "CNN",
+      "Perseptron",
+      "RNN"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Neyron tarmoqda w (og‘irlik/vazn) nimani bildiradi?",
+    "variantlar": [
+      "«Neyronning rangini»",
+      "Kiruvchi signalning ahamiyat darajasini",
+      "Xatolik miqdorini",
+      "Neyronlar sonini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Faollashtirish (Aktivlashtirish) funksiyasi nima uchun kerak?",
+    "variantlar": [
+      "Barcha qiymatlarni o‘n qilish uchun",
+      "Tarmoqqa nochiiziqlilik kiritish uchun, aks holda tarmoq oddiy chiziqli regressiya bo‘lib qoladi",
+      "Hisoblashni tezlashtirish uchun",
+      "Vaznlarni o‘chirish uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«To‘g‘riga uzatish» (Forward propagation) jarayoni nima?",
+    "variantlar": [
+      "Xatoni ortga qaytarish",
+      "Ma'lumotlarning kirish qatlamidan chiqish qatlamiga qarab harakatlanishi va natija hisoblanishi",
+      "Vaznlarni yangilash",
+      "Ma'lumotlarni o‘chirib tashlash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Neyron tarmoqlarda o‘qitish jarayoni aslida nimani anglatadi?",
+    "variantlar": [
+      "Neyronlar sonini o‘zgartirishni",
+      "Xatolikni kamaytirish uchun w (vaznlar) va b (siljitishlar) qiymatlarini optimallashtirish",
+      "Dastur kodini o‘zgartirishni",
+      "Kiruvchi ma'lumotlarni o‘zgartirishni"
+    ],
+    "togri": 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "One-Hot Encoding usuli nima uchun ishlatiladi?",
+    "variantlar": [
+      "Tasvirlarni kodlash uchun",
+      "Kategoriyali (matnli) klaslarni (masalan: «Mushuk,» «Kuchuk,» «Ot») neyron tarmoq tushunadigan [1, 0, 0] ko‘rinishidagi vektorlarga o‘tkazish uchun",
+      "Xatolikni hisoblash uchun",
+      "Vaznlarni saqlash uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Softmax funksiyasi odatda qaerda ishlatiladi?",
+    "variantlar": [
+      "Yashirin qatlamlarda",
+      "Ko‘p klassli klassifikatsiyalash masalasida chiqish qatlamida (ehtimolliklarni taqsimlash uchun)",
+      "Kirish qatlamida",
+      "Regressiya masalasida"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Neyron tarmoq arxitekturasini tanlashda «Kirish qatlami»dagi neyronlar soni nimaga bog‘liq?",
+    "variantlar": [
+      "Dasturchining xohishiga",
+      "Kiruvchi ma'lumotlarning o‘lchamiga",
+      "Chiqish klaslari soniga",
+      "Kompyuter xotirasiga"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "To‘plam (Batch) nima?",
+    "variantlar": [
+      "Butun ma'lumotlar bazasi",
+      "Modelni bir marta yangilash uchun ishlatiladigan ma'lumotlarning kichik bo‘limi",
+      "Xatolik funksiyasi",
+      "Neyron turi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Davr (Epoxa) tushunchasi nimani bildiradi?",
+    "variantlar": [
+      "Bir dona ma'lumotni o‘qitish",
+      "Butun o‘quv ma'lumotlar to‘plamining neyron tarmoqdan bir marta to‘liq o‘tib chiqishi",
+      "O‘qitishni to‘xtatish vaqti",
+      "Dasturning ishga tushish vaqti"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«O‘lgan neyron» (Dying ReLU) muammosi asosan qaysi aktivlashtirish funksiyasida uchraydi?",
+    "variantlar": [
+      "ReLU (manfiy qiymatlarda 0 bo‘lib qolganda)",
+      "Sigmoid",
+      "Chiziqli",
+      "Softmax"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Vaznlarni inisializatsiya qilish (boshlang‘ich qiymat berish) nega muhim?",
+    "variantlar": [
+      "Muhim emas, hammasini 0 qilsa bo‘ladi",
+      "Agar barcha vaznlar 0 yoki bir xil bo‘lsa, neyronlar bir xil o‘rganadi;  tasodifiy ",
+      "Katta sonlar berish kerak",
+      "Faqat 1 qiymatini berish kerak"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Bias (siljitish) bo‘lmasa, faollashtirish funksiyasi har doim qaerdan o‘tadi?",
+    "variantlar": [
+      "(1, 1) nuqtadan",
+      "Koordinata boshidan (0, 0)",
+      "(0, 1) nuqtadan",
+      "(-1, -1) nuqtadan"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Sinov matritsasida «Yolg‘on musbat» (False Positive) nima?",
+    "variantlar": [
+      "Kasal odamni kasal deb topish",
+      "Sog‘lom odamni sog‘lom deb bilish",
+      "Modelning «Musbat» (masalan, kasal) deb xato bashorat qilishi (aslida u manfiy/sog‘lom) - ",
+      "Kasal odamni sog‘lom deb xato topish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Qaysi metrika modelning «o‘ta ishonchi» haqida ma'lumot bermaydi, faqat to‘g‘ri yoki noto‘g‘riligini aytadi?",
+    "variantlar": [
+      "Aniqlik (Accuracy)",
+      "Log-loss (kross-entropiya yo‘qolishi)",
+      "MSE",
+      "Ehtimollik ko‘rsatkichi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Validation to‘plami» Test to‘plamidan nima bilan farq qiladi?",
+    "variantlar": [
+      "Validatsiya - o‘qish jarayonida model parametrlarini (giperparametrlarni) sozlash uchun qo‘llaniladi; Test - faqat yakuniy baholash uchun",
+      "Farqi yo‘q",
+      "Validatsiya o‘qitishda qo‘llanilmaydi",
+      "Test to‘plami modelni o‘qitish uchun qo‘llaniladi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Teskari tarqalish (Backpropagation) algoritmining asosiy vazifasi nima?",
+    "variantlar": [
+      "Neyron tarmog‘ining kiruvchi ma'lumotlarini o‘zgartirish",
+      "Xatolik funksiyasi gradientini hisoblash va vaznlarni yangilash orqali xatolikni minimallashtirish",
+      "Tarmoqni oldinga yurgizish",
+      "Ma'lumotlar bazasini tozalash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ortga tarqalish matematik tahlilda qaysi qoidaga asoslanadi?",
+    "variantlar": [
+      "Pifagor teoremasi",
+      "Nyutonning ikkinchi qonuni",
+      "Zanjir qoidasi (Chain rule) - hosilalarni hisoblash uchun",
+      "Ehtimollik nazariyasi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Teskari tarqalish jarayoni qaysi yo‘nalishda amalga oshiriladi?",
+    "variantlar": [
+      "Kirish qatlamidan chiqish qatlamiga qarab",
+      "Chiqish qatlamidan kirish qatlamiga qarab",
+      "Tasodifiy yo‘nalishda",
+      "Faqat yashirin qatlamlarda"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Gradientning yo‘qolishi» (Vanishing gradient) muammosi nima?",
+    "variantlar": [
+      "Gradient juda ulkan bo‘lib ketishi",
+      "Ko‘p qatlamli tarmoqlarda ortga qaytishda gradientning nolga yaqinlashib, quyi qatlamlarning",
+      "Tarmoqning tez ishlashi",
+      "Kompyuter o‘chib qolishi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Yo‘qotish (Loss) funksiyasi nimani anglatadi?",
+    "variantlar": [
+      "Modelning qanchalik to‘g‘ri ishlashini",
+      "Model bashorati va haqiqiy qiymat o‘rtasidagi farqni (jarimani)",
+      "Ma'lumotlar hajmini",
+      "O‘qitish vaqtini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Binar kross-entropiya» qaysi turdagi masalalar uchun qo‘llaniladi?",
+    "variantlar": [
+      "Regressiya",
+      "Binar (2 klassli) klassifikatsiyalash",
+      "Ko‘p klassli klassifikatsiyalash",
+      "Tasvirlarni yaratish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Kategoriyali kross-entropiya» funksiyasi qachon ishlatiladi?",
+    "variantlar": [
+      "Binar klassifikatsiyada",
+      "Regressiya",
+      "Ko‘p sinfli klassifikatsiyada"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Gradient tushishi algoritmining maqsadi nima?",
+    "variantlar": [
+      "Funksiyaning maksimum nuqtasini topish",
+      "Yo‘qotish funksiyasining global minimumini topish",
+      "Funksiyaning o‘rtacha qiymatini topish",
+      "Tasodifiy sonlarni hosil qilish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "O‘qitish tezligi (Learning rate) nimani belgilaydi?",
+    "variantlar": [
+      "Epoxalar sonini",
+      "Neyronlar sonini",
+      "Gradient yo‘nalishi bo‘yicha qo‘yiladigan qadam hajmini",
+      "Ma'lumotlar o‘lchami"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Agar o‘qitish tezligi juda katta tanlansa, nima yuz beradi?",
+    "variantlar": [
+      "Model juda sekin o‘qiydi",
+      "Model optimal nuqtadan sakrab o‘tib ketishi va «Divergentsiya» (uzoqlashish) yuz",
+      "Model darhol to‘xtaydi",
+      "Hech narsa o‘zgarmaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Agar o‘rganish darajasi juda kichik bo‘lsa, nima kuzatiladi?",
+    "variantlar": [
+      "O‘qitish jarayoni juda sekinlashadi va ko‘p vaqt talap etadi",
+      "Model aniqligi tushadi",
+      "Kompyuter qizib ketadi",
+      "Xatolik oshib ketadi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Stoxastik gradient tushishining (SGD) oddiy gradient tushishidan farqi nimada?",
+    "variantlar": [
+      "Farqi yo‘q",
+      "SGD har bir qadamda faqat bitta tasodifiy namunadan foydalanib vaznlarni yangilaydi",
+      "SGD butun ma'lumotlar bazasidan foydalanadi",
+      "SGD faqat tasvirlar bilan ishlaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Kichik partiyali (Mini-batch) gradient tushishi nima?",
+    "variantlar": [
+      "Hech qanday ma'lumot qo‘llamaydi",
+      "Butun bazani ishlatadi",
+      "Ma'lumotlarni kichik guruhlarga bo‘lib, har bir guruh uchun vaznlarni yangilaydi",
+      "Faqatgina bir ma'lumotni qo‘llaydi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Global minimal» va «lokal minimal» farqi nimada?",
+    "variantlar": [
+      "Global - funksiyaning eng quyi nuqtasi, Lokal - ma'lum bir oraliqdagi eng quyi nuqta (tuzoq)",
+      "Global - eng yuqori nuqta",
+      "Lokal minimumlar yaxshiroq",
+      "Ikkalasi bir xil narsa"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Modelni optimallashtirishda «Adam» algoritmi nega ommabop?",
+    "variantlar": [
+      "Eng sekin ishlaydigan algoritm",
+      "U har bir parametr uchun o‘qitish tezligini avtomatik moslashtiradi va inersiya (impuls) f",
+      "U faqat chiziqli modellarda ishlaydi",
+      "U xotirani kam egallaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Regulyarizatsiya (Regularization) texnikalari (L1, L2) nima uchun ishlatiladi?",
+    "variantlar": [
+      "Modelni tezlashtirish uchun",
+      "Vaznlarni jarimalash orqali haddan tashqari o‘qitib yuborishning (overfitting) oldini olish uchun",
+      "Ma'lumotlarni ko‘paytirish uchun",
+      "Biyani oshirish uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Dropout texnikasi qanday ishlaydi?",
+    "variantlar": [
+      "Barcha neyronlarni o‘chiradi",
+      "O‘qish jarayonida tasodifiy neyronlarning ma'lum bir qismini vaqtincha o‘chirib turadi (o‘zaro bog‘liqlikni kamaytirish uchun)",
+      "Ma'lumotlarni o‘chiradi",
+      "Xatolikni o‘chiradi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ma'lumotlarni sun'iy ko‘paytirish (Data Augmentation) nima?",
+    "variantlar": [
+      "Bir xil tasvirni nusxalash",
+      "Bor tasvirlarni o‘zgartirish (burish, qirqish, rangini o‘zgartirish) orqali ma'lumotlar",
+      "Internetdan yangi tasvirlar yuklab olish",
+      "Tasvirlar hajmini kichraytirish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Erta to‘xtatish (Early stopping) usuli qachon qo‘llaniladi?",
+    "variantlar": [
+      "Vaqt tamom bo‘lganda",
+      "Kompyuter qiziganda",
+      "Validatsiya xatoligi kamayishdan to‘xtab, osha boshlaganda",
+      "1000-epoxa tamomlanganda"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "To‘plamni normallashtirishning (Batch Normalization) foydasi nima?",
+    "variantlar": [
+      "Tasvirlarni oq-qora qiladi",
+      "Har bir qatlam chiqishini normallashtiradi, bu esa o‘qitishni tezlashtiradi va barqarorlashtiradi",
+      "Tarmoqni kichraytiradi",
+      "Ma'lumotlarni aralashtiradi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Parametrlar va giperparametrlar ayirmachiligi nimada?",
+    "variantlar": [
+      "Parametrlar (w, b) model tomonidan o‘rganiladi; Giperparametrlar (o‘qitish tezligi, partiya hajmi)",
+      "Farqi yo‘q",
+      "Parametrlar inson tomonidan o‘rnatiladi",
+      "Giperparametrlar o‘zgarmas sonlar"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Davr (Epoxa) va Iteratsiya farqi nima?",
+    "variantlar": [
+      "Ikkalasi ham bir xil",
+      "Epoxa - bir tasvir, Iteratsiya - barcha tasvirlar",
+      "Epoxa - butun ma'lumotlar to‘plamining bir marta o‘tishi; Iteratsiya - bir guruhning o‘tishi",
+      "Epoxa faqat vaqt o‘lchov birligi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Chuqur o‘qitishning an'anaviy Mashinaviy o‘qitishdan asosiy ustunligi nimada?",
+    "variantlar": [
+      "Kamroq ma'lumot talab etadi",
+      "Belgilarni (feature) avtomatik ravishda ajratib oladi, inson aralashuvi shart emas",
+      "Faqatgina matn bilan ishlaydi",
+      "Hisoblash quvvati talab etmaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "CNN (Konvolyutsion neyron tarmoqlari) asosan qaysi sohada eng yuqori natija beradi?",
+    "variantlar": [
+      "Ovozli yordamchilar",
+      "Jadvaldagi ma'lumotlar (Excel)",
+      "Kompyuter ko‘rishi (Computer Vision) va tasvirlarni tahlil qilish",
+      "Vaqtli qatorlar"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Kompyuter uchun raqamli tasvir nima?",
+    "variantlar": [
+      "Tasvir fayli",
+      "Piksellar qiymatlaridan iborat matritsa (sonlar jadvali)",
+      "Rangli qog‘oz",
+      "Videolavha"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "CNN dagi «Burama qatlam»ning (Convolutional layer) vazifasi nima?",
+    "variantlar": [
+      "Tasvirni kichraytirish",
+      "Tasvirdan har turli belgilarni (qirralar, burchaklar, teksturalar) filtrlar yordamida ajratib olish",
+      "Klaslarga ajratish",
+      "Tasvirni rangli qilish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Yadro (Yoki Filtr) nima?",
+    "variantlar": [
+      "Ulkan tasvir",
+      "Tasvir ustidan siljib o‘tuvchi va belgilarni aniqlovchi kichik vaznlar matritsasi (masalan, 3x3)",
+      "Neyron tarmog‘ining nomi",
+      "Chiqish qatlami"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Qadam» (Stride) tushunchasi CNNda nimani bildiradi?",
+    "variantlar": [
+      "Tasvirlar sonini",
+      "Filtrning tasvir ustida harakatlanish qadami",
+      "Qatlamlar sonini",
+      "O‘qitish tezligini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Padding» (To‘ldirish) nima uchun ishlatiladi?",
+    "variantlar": [
+      "Tasvirni ulkaytirish uchun",
+      "Konvolyutsiya jarayonida tasvir o‘lchami kichrayib ketmasligi uchun chetlariga nollar qo‘shish (Zero-padding)",
+      "Tasvirni o‘chirish uchun",
+      "Ranglarni to‘qlash uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Pooling (Hovuzlash) qatlamining, ayniqsa «Max Pooling»ning maqsadi nima?",
+    "variantlar": [
+      "Belgilarni ko‘paytirish",
+      "Tasvir o‘lchamini qisqartirish (hisoblashni kamaytirish) va eng ahamiyatli belgilarni saqlab qolish",
+      "Tasvirni teskari aylantirish",
+      "Xatolikni hisoblash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Max Pooling qanday ishlaydi?",
+    "variantlar": [
+      "O‘rtacha qiymatni oladi",
+      "Beligilangan oynadagi (masalan, 2x2) eng ulkan qiymatni tanlab oladi",
+      "Eng kichik qiymatni oladi",
+      "Barcha qiymatlarni yig‘adi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "CNN arxitekturasida «Flatten» (Yassilash) qatlami nima qiladi?",
+    "variantlar": [
+      "Tasvirni tekislaydi",
+      "Ranglarni o‘chiradi",
+      "Ko‘p o‘lchamli matritsani (3D) bitta uzun vektorga (1D) aylantiradi",
+      "Tasvirni 3D formatga o‘tkazadi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "To‘liq bog‘langan qatlam CNN ning qaysi bo‘limida joylashadi?",
+    "variantlar": [
+      "Eng boshida",
+      "Eng oxirida (Klassifikatsiyalash vazifasini bajarish uchun)",
+      "O‘rtasida",
+      "Qo‘llanilmaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Rangli tasvirlash (RGB) nechta kanalga ega?",
+    "variantlar": [
+      "1 dona",
+      "2",
+      "3 (qizil, yashil, ko‘k)",
+      "4"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Oq-qora tasvir nechta kanalga ega?",
+    "variantlar": [
+      "1 dona",
+      "3",
+      "0",
+      "255 dona"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Agar kirish tasviri 28x28 bo‘lsa va u 3x3 filtr orqali o‘tkazilsa (qadam=1, padding=0), chiqish o‘lchami qanday bo‘ladi?",
+    "variantlar": [
+      "28x28",
+      "26x26",
+      "30x30",
+      "14x14"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "CNN nima uchun oddiy MLP (Multi-Layer Perceptron) dan tasvirlar uchun yaxshiroq?",
+    "variantlar": [
+      "CNN sekinroq ishlaydi",
+      "CNN piksellarning fazoviy joylashuvini (spatial structure) hisobga oladi va parametrlarni (filtr vaznlarini) butun tasvir bo‘ylab ulashadi",
+      "MLP ranglarni ko‘rmaydi",
+      "Farqi yo‘q"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "LeNet-5 arxitekturasi qanday vazifa uchun yaratilgan edi?",
+    "variantlar": [
+      "Inson yuzini tanish",
+      "Qo‘lyozma raqamlarni (MNIST) tanish",
+      "Mashinalarni haydash",
+      "Ovozni yozish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Belgilar kartasi (Feature map) nima?",
+    "variantlar": [
+      "Google Maps kartasi",
+      "Konvolyutsiya amali bajarilgandan so‘ng paydo bo‘lgan natijaviy matritsa",
+      "Kiruvchi tasvir",
+      "Vaznlar jadvali"
+    ],
+    "togri": 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Transfer Learning (O‘tkazma o‘qitish) nima?",
+    "variantlar": [
+      "Ma'lumotlarni bir kompyuterdan ikkinchisiga o‘tkazish",
+      "Katta ma'lumotlarda oldindan o‘qitilgan modelni olib, o‘z masalasiga moslashtirish",
+      "O‘qituvchini almashtirish",
+      "Tilni tarjima qilish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Tenzor nima?",
+    "variantlar": [
+      "Faqatgina bitta son",
+      "Faqat vektor",
+      "Ko‘p o‘lchamli massivlarning (skalyar, vektor, matritsa) umumiy nomi",
+      "Neyron tarmog‘ining nomi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Gradientni qirqish (Gradient clipping) nima uchun ishlatiladi?",
+    "variantlar": [
+      "Gradientni nolga aylantirish uchun",
+      "«Exploding Gradient» (Gradient portlashi) muammosining oldini olish uchun gradient qiymatini cheklash",
+      "Tasvirlarni qirqish uchun",
+      "Vaznlarni o‘chirish uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Inersiya (Momentum) usuli Gradient tushishiga qanday yordam beradi?",
+    "variantlar": [
+      "Tebranishlarni kamaytiradi va lokal minimumdan o‘tib ketishga yordam berib, konvergentsiyani tezlashtiradi",
+      "O‘qitishni sekinlashtiradi",
+      "Xatolikni oshiradi",
+      "Yordam bermaydi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Semantik segmentlash (Semantic segmentation) masalasi nimani anglatadi?",
+    "variantlar": [
+      "Tasvirdagi ob'ektni to‘rtburchak ichiga olish",
+      "Tasvirni «Pishiq» deb atash",
+      "Tasvirdagi har bir pikselni ma'lum bir klassga tegishli deb belgilash (masalan, yo‘l, mashina, osmon piksellari)",
+      "Tasvirni siqish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ob'ektni aniqlash (Object detection) nimani bajaradi?",
+    "variantlar": [
+      "Faqat klass otini aytadi",
+      "Tasvirdagi ob'ektlarni aniqlaydi va ularning joylashuvini ko‘rsatadi (Bounding Box)",
+      "Har bir pikselni bo‘yaydi",
+      "Videoni tasvirga aylantiradi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "ReLU funksiyasining «Leaky ReLU» varianti nima uchun kerak?",
+    "variantlar": [
+      "Musbat sonlarni o‘chirish uchun",
+      "«O‘lik neyron» (Dead ReLU) muammosini yechish uchun (manfiy qismda kichik qiymat qaytaradi)",
+      "Hisoblashni qiyinlashtirish uchun",
+      "Hech qanday farqi yo‘q"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "CNNda «Kengaytirilgan konvolyutsiya» (Dilated convolution) nima beradi?",
+    "variantlar": [
+      "Tasvirni kichraytirish",
+      "Filtr qamrov maydonini (Receptive field) kattalashtiradi, parametrlar sonini oshirmasdan",
+      "Ranglarni o‘zgartiradi",
+      "Piksel sifatini buzadi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "1x1 Konvolyutsiya nima maqsadda ishlatiladi?",
+    "variantlar": [
+      "Hech qanday ta'siri yo‘q",
+      "Kanallar sonini (chuqurligini) o‘zgartirish (kamaytirish yoki ko‘paytirish) va nochiiziqlilik qo‘shish uchun",
+      "Tasvirni ulkaytirish uchun",
+      "Faqat oq-qora tasvirlar uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«AlexNet» arxitekturasi nimasi bilan mashhur?",
+    "variantlar": [
+      "Birinchi neyron tarmoq",
+      "U ishlamadi",
+      "2012-yilda ImageNet tanlovida g‘olib bo‘lib, Chuqur o‘qitish (Deep Learning) revolyutsiyasini boshlab bergan",
+      "U faqatgina matn bilan ishlagan"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "RNN (Rekurrent Neyron Tarmoqlari) ning asosiy qo‘llanish sohasi qaysi?",
+    "variantlar": [
+      "Tasvirlarni klassifikatsiyalash",
+      "Ketma-ketlikdagi ma'lumotlarni (matn, nutq, vaqtli qatorlar) qayta ishlash",
+      "Jadvalli ma'lumotlarni regressiyalash",
+      "O‘lchamlarni qisqartirish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "RNN ning MLP yoki CNN dan asosiy farqi nimada?",
+    "variantlar": [
+      "Faqat bir qatlamga ega",
+      "Yashirin holat (hidden state) yoki «ichki xotira»ga ega bo‘lib, avvalgi ma'lumotlarni keyingi qadamga uzatadi",
+      "Faqatgina manfiy sonlar bilan ishlaydi",
+      "Faqat tasvirlarni ishlashga mo‘ljallangan"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "RNN dagi «Uzoq muddatli bog‘liqlik» muammosi nimani anglatadi?",
+    "variantlar": [
+      "Tarmoq juda sekin ishlaydi",
+      "Tarmoq uzoq o‘tmishdagi muhim ma'lumotlarni eslab qola olmasligi",
+      "Ma'lumotlar ulkan bo‘lishi",
+      "Faqat azanda ishlaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "LSTMning asosiy vazifasi nima?",
+    "variantlar": [
+      "Hisoblashni tezlashtirish",
+      "Tasvirlarni rangli qilish",
+      "Uzoq muddatli bog‘liqlik muammosini yechish va ma'lumot oqimini eshiklar (gates) orqali boshqarish",
+      "Faqat tasvirlar bilan ishlash"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "LSTM ning asosiy eshiklari qaysilar?",
+    "variantlar": [
+      "Kirish va chiqish",
+      "Unutish (Forget), Kirish (Input), Chiqish (Output)",
+      "Yig‘ish va bo‘lish",
+      "Qizil, yashil, ko‘k"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "GRU LSTM dan qanday farq qiladi?",
+    "variantlar": [
+      "GRU oddiyroq, chunki u faqat ikkita eshikni ishlatadi",
+      "GRU faqat tasvirlar bilan ishlaydi",
+      "GRU uchta eshik ishlatadi",
+      "GRU ning ishlashi qiyin"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Sequence to Sequence (Seq2Seq) modeli qaysi masalada keng qo‘llaniladi?",
+    "variantlar": [
+      "Regressiya",
+      "Mashinaviy tarjima (Matnni bir tildan ikkinchisiga ag‘darish)",
+      "Klasterlash",
+      "Anomaliyalarni aniqlash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "BPTT (Time Through Backpropagation) nima?",
+    "variantlar": [
+      "Vaqtni ortga qaytarish",
+      "RNN ni o‘qitishda xatolikni tarmoqning har bir vaqt qadamiga orqaga tarqatish usuli",
+      "Tarmoqni to‘g‘riga yurgizish",
+      "Faqat Sigmoid funksiyasini qo‘llash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Tabiiy tilni qayta ishlashning asosiy maqsadi nima?",
+    "variantlar": [
+      "Faqat texnik tillarni tushunish",
+      "Kompyuterlarga inson tilini (yozma va og‘zaki) tushunish, talqin etish va generatsiya qilishni o‘rgatish",
+      "Faqat hisob-kitob qilish",
+      "Tasvirlarni rangli qilish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Morfologik tahlil nimani o‘rganadi?",
+    "variantlar": [
+      "Gapning tuzilishini",
+      "So‘zning ichki tuzilishi, o‘zagi va qo‘shimchalarini (o‘zak va morfemalar)",
+      "So‘zning ma'nosini",
+      "So‘zning joylashishini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Sintaktik tahlil nimani o‘rganadi?",
+    "variantlar": [
+      "So‘zning ma'nosini",
+      "Gapning grammatik tuzilishi, so‘zlar orasidagi munosabatlar va to‘g‘ri izchillikni",
+      "So‘zning turini",
+      "Gapdagi harf sonini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Semantik tahlil nimani o‘rganadi?",
+    "variantlar": [
+      "Gapdagi harf sonini",
+      "So‘zning morfemalarini",
+      "So‘zlar va gaplarning ma'nosi (mazmuni) va kontekstini",
+      "Tasvirlarni tanish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Tokenizatsiya (tokenlarga ajratish) degani nima?",
+    "variantlar": [
+      "Matnni tasvirlarga aylantirish",
+      "Matnni ma'noli eng kichik birliklarga (so‘zlar, tinish belgilari) bo‘lish jarayoni",
+      "So‘zlarni tarjima qilish",
+      "Ovozni matnga o‘tkazish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«To‘xtash so‘zlari» (Stop words) deganda nima tushuniladi?",
+    "variantlar": [
+      "Ahamiyatli ma'noga ega bo‘lgan so‘zlar",
+      "Matnda tez-tez uchraydigan, biroq kam ma'noga ega bo‘lgan so‘zlar (masalan: «va,» «bilan,» «ning»)",
+      "Faqat ismlar",
+      "Faqat fe'llar"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Stemming (So‘z o‘zagini topish) va Lemmatizatsiya orasidagi asosiy farq nima?",
+    "variantlar": [
+      "Lemmatizatsiya tezroq",
+      "Stemming qo‘shimchalarni shunchaki kesib tashlaydi; Lemmatizatsiya esa lug‘at yordamida so‘zni o‘zining asosiy formasiga qaytaradi",
+      "Stemming faqat o‘zbek tilida qo‘llaniladi",
+      "Lemmatizatsiya faqat otlar uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "So‘z vektorlari nima?",
+    "variantlar": [
+      "Matnning uzunligi",
+      "So‘zning oddiy harf ko‘rinishi",
+      "So‘zning ma'nosi va kontekstini o‘z ichiga olgan zich sonli vektor ko‘rinishi (masalan, Word2Vec)",
+      "Gapning sintaksislik tuzilishi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Word2Vec modeli qanday ishlaydi?",
+    "variantlar": [
+      "Tasvirlarni tahlil qiladi",
+      "So‘zning kontekstini (atrofidagi so‘zlarni) bashorat qilish yoki kontekstdan so‘zni bashorat qilish orqali so‘z vektorlarini o‘rganadi",
+      "Gaplarni bo‘limlarga ajratadi",
+      "So‘zlarni tasodifiy sonlarga almashtiradi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "TF-IDF (term frequency-inverse document frequency) nimani hisoblaydi?",
+    "variantlar": [
+      "Gapning grammatikasini",
+      "Belgili bir so‘zning hujjatdagi nisbiy ahamiyatini",
+      "Hujjatdagi xatolar sonini",
+      "Faqat so‘zning uzunligini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Diqqat mexanizmining (Attention mechanism) asosiy g‘oyasi nima?",
+    "variantlar": [
+      "Dasturni to‘xtatish",
+      "Har bir ma'lumotga bir xil ahamiyat berish",
+      "Izchillik ma'lumotlarini qayta ishlashda kiruvchi ma'lumotlarning turli bo‘limlariga turlicha ahamiyat (vazn) berish",
+      "Xatolikni oshirish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Transformator (Transformer) arxitekturasi asosan qaysi mexanizmga asoslangan?",
+    "variantlar": [
+      "Qaytimlilik",
+      "Konvolyutsiya",
+      "Diqqat mexanizmi (Attention)",
+      "Perseptron"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "BERT, GPT kabi Katta Til Modellarining (LLM) asosiy arxitekturasi qaysi?",
+    "variantlar": [
+      "RNN",
+      "LSTM",
+      "Transformator",
+      "CNN"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Fikr tahlili» (Sentiment analysis) qanday vazifani bajaradi?",
+    "variantlar": [
+      "Matnni tarjima qilish",
+      "Matndagi fikr, kayfiyat yoki hissiyotni aniqlash (ijobiy, salbiy, neytral)",
+      "Tasvirdagi odamni tanish",
+      "So‘z turkumlarini aniqlash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "NOMLANGAN OB'EKTLARNI AJRATISH (NER) nima?",
+    "variantlar": [
+      "Gapdagi fe'llarni topish",
+      "Matndagi shaxs ismlari, tashkilotlar, o‘rinlar, sanalar kabi maxsus ob'ektlarni aniqlash",
+      "So‘zlarni qisqartirish",
+      "Tasvirdagi ranglarni ajratish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "SI dagi «Etika va kamsitish» muammosi nimada ko‘rinadi?",
+    "variantlar": [
+      "O‘qitish ma'lumotlaridagi tengsizliklar sababli modelning ma'lum guruhlarga nisbatan adolatsiz yoki noto‘g‘ri qarorlar chiqarishi",
+      "Modelning tez ishlashi",
+      "Kodlashdagi xatolar",
+      "Faqat sun'iy neyron tarmoqlarda uchraydi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "XAI (Tushunarli AI) ning maqsadi nima?",
+    "variantlar": [
+      "SI ni yashirish",
+      "SI modelining qanday qilib qaror qabul qilayotganini inson tushuna oladigan tarzda tushuntirish",
+      "Faqat akademik maqsadlar",
+      "SI ni tezlashtirish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Konvolyutsiya (CNN) va Rekurrentlik (RNN) birgalikda qaysi masalada ishlatiladi?",
+    "variantlar": [
+      "Regressiyada",
+      "Tasvirlarga tavsif berish (Image Captioning) va video tahlilda",
+      "Klasterlashda",
+      "Faqat matnli ma'lumotlarda"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Mustahkamlovchi o‘qitishni qaysi sohada qo‘llash eng natijali?",
+    "variantlar": [
+      "Elektron jadvallarni tahlil qilish",
+      "Robototexnika, avtonom haydash va o‘yin o‘ynash (AlphaGo)",
+      "Ma'lumotlarni tozalash",
+      "Sintaktik tahlil"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Haddan tashqari o‘qitib yuborishning (overfitting) oldini olish usullariga nimalar kiradi?",
+    "variantlar": [
+      "Bilim olish darajasini orttirish",
+      "Dropout, Regularization (L1/L2), Early Stopping va ma'lumotlarni ko‘paytirish (Augmentation)",
+      "Faqat 0 vaznlarni berish",
+      "Modelni yana-da murakkablashtirish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Giperparametrlarga nimalar misol bo‘la oladi?",
+    "variantlar": [
+      "Vaznlar (w)",
+      "O‘rganish tezligi, partiya hajmi, qatlamlar soni, aktivlashtirish funksiyasi turi",
+      "Kiruvchi ma'lumotlar",
+      "Xatolik funksiyasi qiymati"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Bayes tarmoqlari qanday turdagi bilimlarni ifodalash uchun qo‘llaniladi?",
+    "variantlar": [
+      "Chiziqli tenglamalar",
+      "Ehtimollik va sabab-oqibat bog‘lanishlari",
+      "Faqatgina ikkilik mantiq",
+      "Cheksiz qoidalar"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Ekspert tizimlarining xulosa chiqarish mashinasida qanday yondashuvlar qo‘llaniladi?",
+    "variantlar": [
+      "Tasodifiy tanlov",
+      "To‘g‘ri zanjir (Forward chaining) va Teskari zanjir (Backward chaining)",
+      "Faqatgina neyron tarmoq",
+      "Faqat klasterlash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "NLP da «Transfer Learning» ning eng aniq misoli qaysi?",
+    "variantlar": [
+      "Word2Vec ni o‘qitish",
+      "BERT, GPT kabi oldindan o‘qitilgan ulkan til modellaridan foydalanish",
+      "Faqat yangi ma'lumot yig‘ish",
+      "Matnni siqish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Qaysi metrika klassifikatsiyada klasslar teng vaznli emas bo‘lganda eng ishonchli?",
+    "variantlar": [
+      "Aniqlik (Accuracy)",
+      "F1 - baho",
+      "MSE",
+      "MAE"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Chiziqli regressiyada optimal koeffitsientlarni topishda analitik yechim beruvchi usul nima deb ataladi?",
+    "variantlar": [
+      "Normal tenglama (Normal equation)",
+      "Gradient tushishi",
+      "Teskari tarqalish",
+      "K-o‘rtacha"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "CNN qatlamlaridagi vaznlar (filtrlar) butun tasvir bo‘ylab taqsimlanishi nima uchun muhim?",
+    "variantlar": [
+      "Modelni sekinlashtiradi",
+      "Parametrlar sonini keskin kamaytiradi va modelni natijaliroq etadi",
+      "Faqat oq-qora tasvirlar uchun",
+      "Faqat chiqish qatlami uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Noaniq mantiqning (Fuzzy logic) kiritish (fazzifikatsiya) jarayoni nima qiladi?",
+    "variantlar": [
+      "Aniq qiymatlarni yo‘q etadi",
+      "Aniq (crisp) sonli qiymatlarni lingvistik o‘zgaruvchilarga (masalan, «baland») mos keluvchi noaniq to‘plamlar a'zolik darajasiga (0 dan 1 gacha) o‘tkazadi",
+      "Faqat 0 yoki 1 qiymatini oladi",
+      "Sonlarni matnga aylantiradi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Agent muhitining «stoxastik» bo‘lishi nimani anglatadi?",
+    "variantlar": [
+      "Keyingi holat oldindan to‘liq aniq",
+      "Keyingi holat biroz tasodifiy yuzaga keluvchi faktorlarga bog‘liq va oldindan to‘liq bashorat qilib bo‘lmaydi",
+      "Muhit o‘zgarmas",
+      "Faqat bir agent bor"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "XOR masalasini yecha olmagan birinchi neyron tarmog‘ining nomi nima?",
+    "variantlar": [
+      "CNN",
+      "Perseptron (bir qatlamli)",
+      "LSTM",
+      "Transformator"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Nazoratsiz o‘qitishdan olingan natijalarni baholashda qaysi o‘lchovlar qo‘llaniladi?",
+    "variantlar": [
+      "Aniqlik (Accuracy)",
+      "F1-BAHOLASH",
+      "Siluet bahosi, inersiya (K-o‘rtacha)",
+      "MAE"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Chiziqli regressiyada Xarajat (Cost) funksiyasi minimumga yetganda, bu nimani anglatadi?",
+    "variantlar": [
+      "Model to‘xtadi",
+      "Modelning vaznlari (koeffitsientlari) optimal qiymatga yetdi",
+      "Xatolik maksimal darajada",
+      "Ma'lumotlar yetarli emas"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Deep Learning ni Machine Learning dan ajratib turuvchi asosiy element nima?",
+    "variantlar": [
+      "Faqat ulkan ma'lumotlar",
+      "Ko‘p sonli yashirin qatlamlar va murakkab belgilarni avtomatik o‘rganish",
+      "Faqat inson ishtiroki",
+      "Faqat Python dasturlash tili"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "SI ning dastlabki rivojlanish bosqichidagi «Qoidalar tizimi» nima edi?",
+    "variantlar": [
+      "Matematik funksiyalar",
+      "Inson ekspertining bilimini IF-THEN qoidalari orqali kodlash",
+      "Faqat tasodifiy harakatlar",
+      "Neyron tarmoqlar"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Modelning umumlashtirish (Generalization) qobiliyati nimani anglatadi?",
+    "variantlar": [
+      "Modelning tezligi",
+      "Modelning o‘qitishda ko‘rmagan yangi ma'lumotlarda ham yuqori aniqlik ko‘rsata olishi",
+      "Modelning o‘quv ma'lumotini yodlab olishi",
+      "Modelning murakkabligi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "RNN dagi holat vektori (h_t) qanday yangilanadi?",
+    "variantlar": [
+      "Faqat kiruvchi x_t ga bog‘liq",
+      "Oldingi holat h_{t-1} va hozirgi kirish x_t ga bog‘liq",
+      "Har doim 0 bo‘ladi",
+      "To‘satdan yangilanadi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "NLP da «Paradigmatik tahlil» (Morfologiyaning bir bo‘limi) qanday vazifani bajaradi?",
+    "variantlar": [
+      "Gapning ma'nosini tushunish",
+      "So‘zning o‘zgarish formalarini (turlanish, tuslanish, son kabi) o‘rganish",
+      "Gapdagi tartibni o‘rganish",
+      "Tasvirlarni rangli qilish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Sun'iy neyronning yig‘ish funksiyasiga kirishidan oldin nima yuz beradi?",
+    "variantlar": [
+      "Aktivlashtirish funksiyasi qo‘llaniladi",
+      "Har bir kirish o‘zining mos vazni (w) bilan ko‘paytiriladi",
+      "Ma'lumotlar o‘chiriladi",
+      "Hech narsa yuz bermaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Tyuring testi tanqidlariga nimalar kiradi?",
+    "variantlar": [
+      "Test juda murakkab",
+      "Test faqat tashqi xatti-harakatga (aqlli ko‘rinishga) e'tibor qaratadi, haqiqiy anglash va fikrlash talab etilmaydi",
+      "Test juda qisqa",
+      "Test faqat robotlar uchun mo‘ljallangan"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "K-yaqin qo‘shnilar (KNN) qanday turdagi algoritm hisoblanadi?",
+    "variantlar": [
+      "Parametrik (belgili funksiyaga asoslangan)",
+      "Parametrik emas (Ma'lumotga bog‘liq funksiya hosil qilmaydi)",
+      "Regressiya",
+      "To‘lqinli"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "Deep Learning ning qaysi arxitekturasi tasvir va videoda ob'ektni kuzatish (Tracking) uchun ishlatiladi?",
+    "variantlar": [
+      "MLP",
+      "Soddadill Bayes",
+      "CNN va RNN/LSTM kombinatsiyasi",
+      "K-o‘rtacha"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "«Sun'iy intellekt» atamasining asosiy g‘oyasi nima?",
+    "variantlar": [
+      "Faqat insonlarga xizmat ko‘rsatish",
+      "Kompyuterlarni tezlashtirish",
+      "Inson intellektual qobiliyatlarini kompyuterda modellashtirish va avtomatlashtirish",
+      "Ma'lumotlarni faqatgina saqlash"
+    ],
+    "togri": 2
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "1. «Axborot erkinligi prinsiplari va kafolatlari to'g'risida»gi qonuni qachon qabul qilingan?",
+    "variantlar": [
+      "2002-yil 12-dekabr",
+      "2020-yil 12-dekabr",
+      "2000-yil 12-dekabr",
+      "2008-yil 12-dekabr"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "2. Axborot- bu?",
+    "variantlar": [
+      "manbalari va taqdim etilish shaklidan qat‘iy nazar shaxslar, predmetlar, faktlar, voqealar, hodisalar va jarayonlar to'g'risidagi ma‘lumotlar;",
+      "axborot borasidagi xavfsizlikka tahdidlarning oldini olish;",
+      "faqat obyektdagi xavfsizlikka tegishli axborot",
+      "muhim davlat vazifasi hisoblanadi;"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "3. Ommaviy axborot deganimiz nima?",
+    "variantlar": [
+      "cheklanmagan doiradagi shaxslar uchun mo'ljallangan hujjatlashtirilgan axborot, bosma, audio, audiovizual hamda boshqa xabarlar va materiallar;",
+      "tahdidlarning oldini olish va ularning oqibatlarini bartaraf etish choratadbirlari;",
+      "shaxs haqidagi ma'lum bir belgilar toplami;",
+      "faqat chekli ko'rinishdagi axborotlar"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "4. Maxfiy axborot deganimiz nima?",
+    "variantlar": [
+      "foydalanilishi qonun hujjatlariga muvofiq cheklab qo'yiladigan hujjatlashtirilgan axborot.",
+      "inson tushiniksiz holatiga keltirilgan axborot.",
+      "bosma, audio, audiovizual hamda boshqa xabarlar.",
+      "ko'p qirrali faoliyat sohasi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "5. O'zbekiston Respublikasi Prezidentining «Milliy axborot resurslarini muhofaza qilishga doir qo'shimcha chora-tadbirlar to'g'risida»gi qarori qachon qabul qilingan?",
+    "variantlar": [
+      "2011-yil 8-iyul",
+      "2012-yil 9-iyul",
+      "2021-yil 18-iyul",
+      "2001-yil 18-dekabr"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "6. .....– hujjatlashtirilgan axborot, undan foydalanish qonun hujjatlariga muvofiq chegaralanadi.",
+    "variantlar": [
+      "Limit",
+      "Konfedensial axborot",
+      "Siyosiy axborot",
+      "ilmiy-texnik axborot"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "7. Bugungi kunda axborot xavfsizligini ta‘minlaydigan nechta asosiy tamoyil mavjud:",
+    "variantlar": [
+      "5",
+      "3",
+      "6",
+      "2"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "8. Ma‘lumotlar butunligi deb nimaga aytamiz?",
+    "variantlar": [
+      "axborotni yo'qotilishiga olib keluvchi buzilishlardan, shuningdek ma‘lumotlarni mualliflik huquqi bo'lmagan holda hosil qilish yoki yo'q qilishdan himoya qilish;",
+      "dasturiy-texnik choralarni qo'llanilishi;",
+      "qonuniylik va huquq tartibotni qat‘iy amalga oshishi;",
+      "iqtisodiy va ijtimoiy barqarorligini ta‘minlashi;"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "9. Axborotni muhofaza qilish bu?",
+    "variantlar": [
+      "axborot xavfsizligining (ma‘lumotlarning butunligi, foydalana olish va zarur bo'lganda, ma‘lumotlarni kiritish, saqlash, qayta ishlash va uzatishda foydalaniluvchi axborot va uning zaxiralari konfedensialligi) muhim jihatlarini ta‘minlashga yo'naltirilgan tadbirlar majmuidir.",
+      "axborot egalariga yoki axborotdan foydalanuvchilarga hamda uni qo'llab quvvatlovchi infratuzilmaga zarar yetkazishi mumkin bo'lgan tabiiy yoki sun‘iy xarakter",
+      "fuqarolar, alohida guruhlar va ijtimoiy qatlamlar, umuman olganda aholining yashash faoliyati",
+      "maqsadlar, vazifalar, tamoyillar va asosiy yo'nalishlar bo'yicha rasmiy nuqtai nazarlar majmuini bildiradi."
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "10. Kiberjinoyatdan asosiy maqsad nima?",
+    "variantlar": [
+      "pul, qimmatli qog'ozlar, kredit, moddiy boyliklarni noqonuniy olish;",
+      "pul, qimmatli qog'ozlar,moddiy boyliklarni qonuniy olish;",
+      "energiya manbalari va strategik xom ashyolarni noqonuniy olishni toqtatich;",
+      "Hukumat pullari kuzatilishi mumkin va kripto valyutasini kuzatib borish;"
+    ],
+    "togri": 0
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "11. Mualiflik  xuquqini ta‘minlashda turli himoya usullaridan foydalaniladi. Bular .... ?",
+    "variantlar": [
+      "shaxsiy yoki siyosiy maqsadlarda maxfiy ma‘lumotlarni yashirish.",
+      "litsenziyaga ega CD diskni sotib olmaslik.",
+      "CD/DVD disklardagi ma‘lumotlarni ruxsatsiz ko'chirishdan himoyalash.",
+      "ko'chirishni oldini olish masalalaridan tashqari himoyalanmaslik"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "12. ''Axborot erkinligi prinsiplari va kafolatlari to'g'risida'' gi qonuni qabul qilindi. Ushbu qonun necha moddadan iborat?",
+    "variantlar": [
+      "8",
+      "16",
+      "4",
+      "12"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "13. Internet tarmog'ida mavjubo'lgan taqiqlangan kontentlardan voyaga yetmaganlar tomonidan foydalanish doim nimalarga sabab bo'lmoqda?",
+    "variantlar": [
+      "siyosiy maqsadlarga",
+      "doim axloqiy munozaralarga",
+      "savollarga",
+      "ochiq tekstlarning ko'payichiga"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "14. Tizimda xavfsiz parol yaratishda qanday tavsiyalar mavjud?",
+    "variantlar": [
+      "Parolni shaxsiy axborotga asoslash, masalan, tug‘ilgan sana",
+      "Faqat kichik harflardan foydalanish",
+      "Uzun va murakkab, harf, raqam va maxsus belgilarni o‘z ichiga olgan parol yaratish",
+      "Parolni doim bir xil qilish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "15. DDoS (Distributed Denial of Service) hujumi qanday amalga oshiriladi?",
+    "variantlar": [
+      "Tizimga kirishni cheklash uchun maxsus dastur o‘rnatish",
+      "Tizimni katta miqdordagi so‘rovlar bilan to‘ldirish, uning ish faoliyatini sekinlashtirish yoki to‘xtatish",
+      "Foydalanuvchining shaxsiy ma'lumotlarini yig‘ish",
+      "Tarmoqdagi kirish nuqtalarini shifrlash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "16. \"Backdoor\" dasturi nima?",
+    "variantlar": [
+      "Tizimni shifrlash uchun ishlatiladigan dastur",
+      "Tizimga ruxsatsiz kirishni osonlashtiradigan yashirin dastur",
+      "Antivirus dasturining joylashgan manzili",
+      "Internetga kirishdan avval kerakli foydalanuvchi autentifikatsiyasini o‘rnatadigan dastur"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "17. Axborot xavfsizligi siyosatining asosiy elementlari qanday?",
+    "variantlar": [
+      "Faqat antivirus dasturlarini o‘rnatish",
+      "Foydalanuvchi parollari va ularning saqlanishi",
+      "Tizimni va ma'lumotlarni himoya qilish bo‘yicha aniq qoidalar va protseduralar",
+      "Tizimni yangilash va muntazam tekshirish, yoq qilish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "18. Axborot xavfsizligi bo‘yicha riskni qanday baholash mumkin?",
+    "variantlar": [
+      "Faqat tizimning qanchalik yangilanganligi orqali",
+      "Tizimning ishlash tezligini o‘rganish orqali",
+      "Tizimda mavjud bo‘lgan xavfsizlik zaifliklari va potentsial tahdidlarga asoslanib",
+      "Foydalanuvchi xavfsizlik treninglari orqali"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "19. \"Keylogger\" dasturi nima?",
+    "variantlar": [
+      "Tizimni himoya qilish uchun ishlatiladigan dastur",
+      "Foydalanuvchining barcha klaviatura bosishlarini qayd etuvchi dastur",
+      "Fayllarni shifrlash dasturi",
+      "Tizimni yangilash uchun foydalaniladigan dastur"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "20. \"DNS Spoofing\" hujumi nima?",
+    "variantlar": [
+      "DNS serverini o‘zgartirish orqali internetni tezlashtirish",
+      "DNS serveri orqali so‘rovlarni soxta manzillarga yo‘naltirish",
+      "Tizimga kirish uchun DNS nomini shifrlash",
+      "DNS serverini himoya qilish uchun xavfsizlik protokollarini o‘rnatish"
+    ],
+    "togri": 1
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "21. Axborot xavfsizligida \"2FA\" (Ikki faktorli autentifikatsiya) nima?",
+    "variantlar": [
+      "Foydalanuvchi identifikatsiyasini bekor qilish",
+      "Ma'lumotlarni ikki qavatli shifrlash",
+      "Tizimga kirishni ikki qadamda amalga oshirish",
+      "Ikkita antivirus dasturini bir vaqtning o‘zida ishlatish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "22. \"Social engineering\" hujumi nima?",
+    "variantlar": [
+      "Tarmoqni tarqatish uchun zarur bo‘lgan texnologiyalarni ishlab chiqish",
+      "Foydalanuvchidan tizimga kirish uchun kerakli ma'lumotlarni aldov yo‘li bilan olish",
+      "Viruslarni tarqatish uchun yangi metodlarni ishlab chiqish",
+      "Shifrlash algoritmlarini ishlab chiqish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "23. HTTPS protokoli qanday farq qiladi?",
+    "variantlar": [
+      "Faqat tekshirilgan IP manzillari bilan ishlaydi",
+      "Ma'lumotlarni shifrlash orqali xavfsiz ulanishni ta'minlaydi",
+      "Tizim himoyasini aylanib o'tish protokoldir",
+      "Tizimni himoya qiluvchi va xavfsizlik ega emas protokoldir"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "24. Qaysi biri \"firewall\" tizimining asosiy vazifasidir?",
+    "variantlar": [
+      "Internetga kirishni tezlashtirish",
+      "Tizimni viruslardan himoya qilish",
+      "Tarmoqdagi kirish va chiqishlarni nazorat qilish",
+      "Foydalanuvchining ma'lumotlarini saqlash"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "25. \"Malware\" nima?",
+    "variantlar": [
+      "Foydalanuvchining tarmoq faoliyatini tahlil qilish",
+      "Kompyuter tizimini himoya qiluvchi dastur",
+      "Kompyuter tizimiga zarar yetkazuvchi zararli dasturlar",
+      "Tarmoqda ishlaydigan foydalanuvchi identifikatori"
+    ],
+    "togri": 2
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "26. \"Phishing\" hujumi qanday amalga oshiriladi?",
+    "variantlar": [
+      "Kompyuterdan foydalanish imkonini cheklash",
+      "Foydalanuvchidan shaxsiy ma'lumotlarni (masalan, parol, kredit karta raqami) so‘rash",
+      "Tizimni jismoniy zarar yetkazish",
+      "Tizimga kirish uchun ijtimoiy muhitdan foydalanish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "27. Axborot xavfsizligi nima?",
+    "variantlar": [
+      "Tarmoqlarni tezroq ishlashini ta'minlash",
+      "Axborotlarni himoya qilish va uning maxfiyligini ta'minlash",
+      "Kompyuter tizimlarining texnik sozlanishi",
+      "Tizimda ishlayotgan barcha dasturlarni o‘rnatis"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "28. Antivirus - bu ....?",
+    "variantlar": [
+      "viruslarni aniqlovchi yoki aniqlovchi va yo‘q qiluvchi dastur.",
+      "anonimlik absolyut chaqirilishi",
+      "bosh ilova",
+      "ruxsat etilmagan foydalanishga qarshi qabul qilinish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "29. Axborotni shifrlashning maqsadi nima?",
+    "variantlar": [
+      "Maxfiy xabar mazmunini yashirish",
+      "Ma’lumotlarni zichlashtirish, siqish",
+      "Kodlangan malumotlarni yig‘ish va sotish",
+      "Ma’lumotlarni uzatish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "30. Faktorlash muammosi asosida yaratilgan assimetrik shifrlash usuli?",
+    "variantlar": [
+      "RSA",
+      "El-Gamal va vijiner",
+      "Elliptik egri chiziqga asoslangan Cezas shifrlash",
+      "Diffi-Xelning affine shifrlash usuli"
+    ],
+    "togri": 0
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "31. “Galstuk-babochka” tahlili turli mumkin bo‘lgan .... namoyish qilish asosida riskni o‘rganish uchun ishlatiladi.",
+    "variantlar": [
+      "Sabab va oqibatlarni",
+      "Holatlarni",
+      "Sabablarni",
+      "Oqibatlarni"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "32. Qaysi tarmoq himoya vositasi taqiqlangan saytlardan foydalanish imkoniyatini beradi?",
+    "variantlar": [
+      "VPN",
+      "Tarmoqlararo ekran",
+      "Antivirus",
+      "Router"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "33. A5/1 qanday shifrlash algoritmiga kiradi?",
+    "variantlar": [
+      "Cezar shifrlar",
+      "Oqimli shifrlar",
+      "Vijiner shifrlar",
+      "teskari shifrlar"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "34. Simmetrik kriptotizimlarning asosiy kamchiligi bu?",
+    "variantlar": [
+      "Kalitlarni esda saqlash murakkabligi",
+      "Shifrlash jarayonining ko'p vaqt olishi",
+      "Kalitni taqsimlash zaruriyati",
+      "Foydalanuvchilar tomonidan maqbul ko'rilmasligi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "35. Cezar shifrlash usuli qaysi akslantirishga asoslangan",
+    "variantlar": [
+      "O'rin almashtirish va DES ga",
+      "O'rniga qo'yishga",
+      "Ochiq kalitli shifrlashga",
+      "Kombinatsion akslantirishga"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "36. Kerxgofs printsipiga ko'ra kriptotizimning to'liq xavfsiz bo'lishi faqat qaysi kattalik nomalum bo'lishiga asoslanishi kerak?",
+    "variantlar": [
+      "Algoritm va ochiq matn",
+      "Kalit",
+      "Shifrmatn",
+      "Protokol"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "37. Hujumchi kabi fikrlash nima uchun kerak?",
+    "variantlar": [
+      "Bo‘lishi mumkin bo‘lgan xavfni oldini olish uchun",
+      "Kafolatlangan amallarni ta’minlash",
+      "Ma’lumot, axborot va tizimdan foydalanish uchun",
+      "Ma’lumotni aniq va ishonchli ekanligini bilish uchun."
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "38. Global simsiz tarmoqning ta’sir doirasi qanday?",
+    "variantlar": [
+      "Butun dunyo bo‘yicha",
+      "Binolar va korpuslar",
+      "O‘rtacha kattalikdagi shahar",
+      "Foydalanuvchi yaqinidagi tarmoq"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "39. Risk bu?",
+    "variantlar": [
+      "bu tizimga yoki tashkilotga zarar yetkazishi mumkin bo‘lgan hodisaning ehtimoli va uning ta'siri.",
+      "U yoki bu faoliyat jarayonida nimaga erishishni xoxlashimiz.",
+      "Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa",
+      "Tizim yoki tashkilot xavfsizligini ta'minlash usuli"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "40. Tahdid bu?",
+    "variantlar": [
+      "Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.",
+      "U yoki bu faoliyat jarayonida nimaga erishishni xoxlashimiz.",
+      "Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.",
+      "Noaniqlikning maqsadlarga ta’siri va yo'q qilish usullari"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "41. Aktiv bu?",
+    "variantlar": [
+      "Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.",
+      "Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.",
+      "Noaniqlikning maqsadlarga ta’siri",
+      "U yoki bu faoliyat jarayonida nimaga erishishni xoxlashimiz"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "42. Zaiflik bu?",
+    "variantlar": [
+      "Bir yoki bir nechta tahdidga sabab bo‘luvchi tashkilot aktivi yoki boshqaruv tizimidagi kamchilik",
+      "Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa",
+      "Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa va viruslar.",
+      "Noaniqlikning maqsadlarga ta’siri va kamshiliklarni tu'zatish."
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "43. Denial of service (DOS) hujumi axborotni .... xususiyatini buzushga qaratilgan",
+    "variantlar": [
+      "Foydalanuvchanlik",
+      "Butunlik va ma'lumotlarni o'g'irlash",
+      "Konfidensiallik va risklarning",
+      "Ishonchlilik"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "44. Dinamik parol-bu:",
+    "variantlar": [
+      "Bir marta ishlatiladigan parol",
+      "Ko‘p marta ishlatiladigan parol",
+      "Foydalanuvchi ismi",
+      "Murakkab parol"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "45. Kriptologiya bu?",
+    "variantlar": [
+      "“Maxfiy kodlar”ni yaratish va buzish fani va sanati.",
+      "“Maxfiy kodlar”ni yaratish fani va sanati.",
+      "“Maxfiy kodlar”ni buzish fani va sanati.",
+      "Axborotni himoyalash fani va sanati."
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "46. .... kriptotizimni shifrlash va deshifrlash uchun sozlashda foydalaniladi.",
+    "variantlar": [
+      "Kalit",
+      "Ochiq matn",
+      "Alifbo",
+      "Algoritm"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "47. ..... axborotni ifodalash uchun foydalaniladigan chekli sondagi belgilar to‘plami.",
+    "variantlar": [
+      "Alifbo",
+      "Ochiq matn",
+      "Shifrmatn",
+      "Kodlash"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "48. Agar ochiq ma’lumot shifrlansa, natijasi .... bo‘ladi",
+    "variantlar": [
+      "Shifrmatn",
+      "Ochiq matn",
+      "Nomalum",
+      "Kod"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "49. Deshifrlash jarayonida kalit va ..... kerak bo‘ladi",
+    "variantlar": [
+      "Shifrmatn",
+      "Ochiq matn",
+      "Kodlash",
+      "Alifbo"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "50. Ikki kalitli deyilganda qaysi kriptotizim nazarda tutiladi?",
+    "variantlar": [
+      "Ochiq kalitli kriptotizim",
+      "Simmetrik kriptotizim",
+      "Xesh funksiyalar",
+      "MAS tizimlari"
+    ],
+    "togri": 0
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "51. Ma’lumotni mavjudligini yashirishni maqsad qilgan bilim sohasi bu?",
+    "variantlar": [
+      "Steganografiya",
+      "Kriptografiya va fizika",
+      "Kodlash va dekodlash",
+      "Kriptotahlil"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "52. Ma’lumotni konfidensialligini ta’minlash uchun ..... zarur.",
+    "variantlar": [
+      "Shifrlash",
+      "Kodlash va dekodlash",
+      "Dekodlash",
+      "Deshifrlash"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "53. Qadimiy davr klassik shifriga quyidagilarning qaysi biri tegishli?",
+    "variantlar": [
+      "Sezar shifri",
+      "Kodlar kitobi",
+      "Enigma shifri, AES",
+      "DES, AES shifri"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "54. Ochiq kalitli kriptotizimlarning asosiy kamchiligini ko‘rsating?",
+    "variantlar": [
+      "Hisoblashda yuqori vaqt sarflanadi",
+      "Kalitlarni taqsimlash muammosi mavjud",
+      "Ikkita kalitni saqlash muammosi mavjud",
+      "Foydalanish uchun noqulaylik tug‘diradi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "55. Fizik himoyani buzilishiga olib keluvchi tahdidlar yuzaga kelish shakliga ko‘ra qanday guruhlarga bo‘linadi?",
+    "variantlar": [
+      "Tabiy va sun’iy",
+      "Ichki va tashqi",
+      "Aktiv va passiv",
+      "Bir tomonlama va ko‘p tomonlama"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "56. Quyidagilarnnig qaysi biri sun’iy tahdidlar hisoblanadi?",
+    "variantlar": [
+      "Bosqinchilik, terrorizm, o‘g‘irlik",
+      "Yong‘in, suv toshishi, harorat ortishi",
+      "Yong‘in, o‘g‘irlik, qisqa tutashuvlar",
+      "Suv toshishi, namlikni ortib ketishi, bosqinchilik"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "57. Muayyan faoliyat turi bilan bog‘liq harakatlar va majburiyatlar to‘plami bu?",
+    "variantlar": [
+      "Rol",
+      "Imtiyoz",
+      "Daraja",
+      "Imkoniyat"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "58. Kriptografik kalit uzunligining o‘lchov birligi?",
+    "variantlar": [
+      "Bit",
+      "Belgilar soni, ya’ni, ta",
+      "Kbayt",
+      "Metr"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "59. OSI tarmoq modeli nechta sathdan iborat?",
+    "variantlar": [
+      "7",
+      "4",
+      "6",
+      "8"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "60. IPv4 protokolida IP manzil uchun necha bit ajratiladi.",
+    "variantlar": [
+      "32",
+      "64",
+      "128",
+      "4"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "61. IPv6 protokolida IP manzil uchun necha bit ajratiladi",
+    "variantlar": [
+      "128",
+      "32",
+      "64",
+      "4"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "62. Kirish hujumlari bu?",
+    "variantlar": [
+      "Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.",
+      "Asosiy hujumlarni oson amalga oshirishni cheklash uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.",
+      "Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi",
+      "Tarmoq haqida axborotni to‘plash hujumchilarga mavjud bo‘lgan potensial zaiflikni aniqlashga harakat qiladi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "63. Xodimlarga faqat ruxsat etilgan saytlardan foydalanishga imkon beruvchi himoya vositasi bu?",
+    "variantlar": [
+      "Tarmoqlar aro ekran ",
+      "Virtual  Private Network",
+      "Antivirus",
+      "Routerni sozlash vositasi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "64. Zararli dasturlarni ko‘rsating?",
+    "variantlar": [
+      "Kompyuter viruslari va mantiqiy bombalar",
+      "Letsenziyasiz dasturlar va qurilmalar",
+      "Tarmoq kartasi va dasturlar",
+      "Internet tarmog‘i dasturlari"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "65. Bluetooth standarti qaysi simsiz tarmoq turiga qiradi?",
+    "variantlar": [
+      "Shaxsiy simsiz tarmoq",
+      "Lokal simsiz emas tarmoq",
+      "Mintaqaviy simsiz tarmoq",
+      "Global simsiz tarmoq"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "66. Lokal simsiz tarmoqlarga tegishli texnologiyani ko‘rsating?",
+    "variantlar": [
+      "WI-FI",
+      "WI-MAX",
+      "GSM-Tex",
+      "Bluetoth-up"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "67. Qaysi tarmoq himoya vositasi taqiqlangan saytlardan foydalanish imkoniyatini beradi?",
+    "variantlar": [
+      "VPN",
+      "Tarmoqlararo ekran",
+      "Antivirus",
+      "Router"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "68. OSI modelinining tarmoq sathiga mos parametrni ko‘rsating?",
+    "variantlar": [
+      "IP manzil",
+      "MAK manzil",
+      "USB Portlar",
+      "SSL protokoli"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "69. Kompyuter viruslarini tarqalish usullarini ko‘rsating?",
+    "variantlar": [
+      "Ma’lumot saqlovchilar, Internetdan yuklab olish va elektron pochta orqali",
+      "Ma’lumot saqlovchilar, Internetdan yuklab olish va skaner qurilmalari orqali",
+      "Printer qurilmasi, Internetdan yuklab olish va elektron pochta orqali.",
+      "Barcha javoblar to‘g‘ri"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "70. Zararli dasturiy vositalarga qarshi foydalaniluvchi dasturiy vosita bu?",
+    "variantlar": [
+      "Antivirus",
+      "VPN",
+      "Tarmoqlararo ekran",
+      "Brandmauer"
+    ],
+    "togri": 0
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "71. VPN ni kengaytmasi to‘g‘ri keltirilgan javobni toping?",
+    "variantlar": [
+      "Virtual Private Network",
+      "Virtual Personal Network",
+      "Visual Private Network",
+      "Visual Personal Network"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "72. Axborot xavfsizligining huquqiy ta’minotiga nimalar kiradi?",
+    "variantlar": [
+      "Qonunlar, aktlar, me’yoriy-huquqiy hujjatlar, qoidalar, yo‘riqnomalar, qo‘llanmalar majmui",
+      "Qoidalar yo‘riqnomalar, tizim arxitekturasi, xodimlar malakasi",
+      "Qoidalar, yo‘riqnomalar, tizim strukturasi, dasturiy ta’minot",
+      "Himoya tizimini loyihalash, nazorat usullari"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "73. Axborotni shifrlashning maqsadi nima?",
+    "variantlar": [
+      "Maxfiy xabar mazmunini yashirish",
+      "Ma’lumotlarni zichlashtirish, siqish",
+      "Kodlangan malumotlarni yig‘ish va sotish",
+      "Ma’lumotlarni uzatish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "74. Faktorlash muammosi asosida yaratilgan assimetrik shifrlash usuli?",
+    "variantlar": [
+      "RSA",
+      "El-Gamal va vijiner",
+      "Elliptik egri chiziqga asoslangan Cezas shifrlash",
+      "Diffi-Xelning affine shifrlash usuli"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "75. “Galstuk-babochka” tahlili turli mumkin bo‘lgan .... namoyish qilish asosida riskni o‘rganish uchun ishlatiladi.",
+    "variantlar": [
+      "Sabab va oqibatlarni",
+      "Holatlarni",
+      "Sabablarni",
+      "Oqibatlarni"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "76. Qaysi tarmoq himoya vositasi taqiqlangan saytlardan foydalanish imkoniyatini beradi?",
+    "variantlar": [
+      "VPN",
+      "Tarmoqlararo ekran",
+      "Antivirus",
+      "Router"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "77. Kriptologiya bu?",
+    "variantlar": [
+      " “Maxfiy kodlar”ni yaratish va buzish fani va sanati.",
+      "“Maxfiy kodlar”ni yaratish fani va sanati.",
+      "“Maxfiy kodlar”ni buzish fani va sanati.",
+      "Axborotni himoyalash fani va sanati."
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "78. AES shifrlash algoritmining ishlash prinsipini tushuntiring.",
+    "variantlar": [
+      "AES - bu asimmetrik algoritm bo‘lib, ikkita kalitni ishlatadi",
+      "AES - bu simmetrik algoritm bo‘lib, blokli shifrlashni amalga oshiradi",
+      "AES - bu faqat xotira himoyasini ta'minlaydigan algoritm",
+      "AES - bu faqat shifrlash va raqamli imzolarni yaratish uchun ishlatiladi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "79. \"Elliptic Curve Cryptography\" (ECC) algoritmi nima?",
+    "variantlar": [
+      "Simmetrik shifrlash algoritmiga mos emas bo‘lib, tez ishlaydi",
+      "Raqamli imzolarni yaratish uchun va ularni oshirishda ishlatiladigan asimmetrik algoritm",
+      "Asimmetrik shifrlash uchun elliptik egri chiziqlarni ishlatadigan algoritm",
+      "Xavfsiz kanallarni tashkil qilish uchun ishlatiladigan protokol"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "80. \"WPA2\" protokoli nima?",
+    "variantlar": [
+      "Internetni tezlashtirish uchun ishlatiladigan protokol",
+      "Tarmoqdagi ma'lumotlarni shifrlashni ta'minlaydigan xavfsizlik protokoli",
+      "Tizim himoyasini aylanib otish uchun ishlatiladigan protokol",
+      "Kompyuterda foydalanuvchi identifikatsiyasini tekshirish uchun protokol"
+    ],
+    "togri": 1
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "81. \"SQL Injection\" hujumi nima?",
+    "variantlar": [
+      "Foydalanuvchining psixologik testlar yordamida shaxsiy ma'lumotlarini olish",
+      "Web-dasturga zararli SQL so‘rovlarini kiritish orqali ma'lumotlar bazasiga ruxsatsiz kirish",
+      "Foydalanuvchi login va parolini o‘g‘irlash",
+      "Tizimga zararli kodlarni yuborish orqali tizimni yoppasiga buzish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "82. Kiberxavfsizlikning asosiy maqsadi nima?",
+    "variantlar": [
+      "faqat Internetdan foydalanish uchun xavfsizlikni aylanib otish",
+      "Ma'lumotlarni himoya qilish, shaxsiy va moliyaviy ma'lumotlarning xavfsizligini ta'minlash",
+      "Kompyuterni tezlashtirish",
+      "Tizimlarni yangilash"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "83. \"Turing Test\" kiberxavfsizlikda qanday qo‘llaniladi?",
+    "variantlar": [
+      "Tizimdagi barcha zaifliklarni aniqlash",
+      "Ma'lumotlarni shifrlashni tekshirish",
+      "Foydalanuvchi autentifikatsiyasi uchun robotlarni aniqlash",
+      "Tarmoqdagi xavfsizlikni tahlil qilish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "84. Diffie-Hellman kalit almashtirish tizimidan foydalanib, ikki muassasa o‘rtasida xavfsiz bank tizimi yo‘lga qo‘yilmoqda. Quyidagi berilgan parametrlar orqali ular foydalanadigan umumiy sirli kalitni (shared secret key) toping.\n\nOchiq parametrlar: p=23, g=5\nBirinchi bank a=9 ta shaxsiy kalitdan, ikkinchi bank b=12 ta shaxsiy kalitdan foydalanadi. Banklar foydalanadigan umumiy sirli kalitni hisoblang.\n\nKalit = ?",
+    "variantlar": [
+      "12",
+      "8",
+      "28",
+      "21"
+    ],
+    "togri": 3
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "85. Qaysi fizik to'siq insonlarni tashkilotda faqat bittadan kirishini ta'minlaydi?",
+    "variantlar": [
+      "Turniket",
+      "To'mba",
+      "Metal zaborlar",
+      "Elektr zaborlar"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "86. Yong'inga qarshi kurashishning passiv usuliga kiruvchi choralarni ko'rsating.",
+    "variantlar": [
+      "Yong'inni aniqlash, qum yordamida o'chirish va tez yo'nadigan materiallardam foydalanish",
+      "Yong'inga chidamli materiallardan foydalanish, zaxira xona va etajlarni qoldirish, tushuntiruv ishlarini olib borish",
+      "Yong'inga chidamsiz materiallardan foydalanish, qum yordamida o'chirish",
+      "Zaxira xona va etajlarni qoldirmaslik, tushuntiruv ishlarini olib borish, yong'in bo'lganligi haqida signalni vaqtida bermaslik"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "87. Quyidagilarnnig qaysi biri sun'iy tahdidlar hisoblanadi?",
+    "variantlar": [
+      "Yong'in, suv toshishi, harorat ortishi",
+      "Bosqinchilik, terrorizm, o'g'irlik",
+      "Yong'in, o'g'irlik, qisqa tutashuvlar",
+      "Suv toshishi, namlikni ortib ketishi, bosqinchilik"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "88. Quyidagilarnnig qaysi biri tabiy tahdidlar hisoblanadi?",
+    "variantlar": [
+      "Yong'in, suv toshishi, harorat ortishi",
+      "Yong'in, o'g'irlik, qisqa tutashuvlar",
+      "Suv toshishi, terrorizm, bosqinchilik",
+      "Bosqinchilik, terrorizm, o'g'irlik"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "89. Biba modeliga ko'ra agar birinchi ob'ektning ishonchlilik darajasi I(O1) ga teng bo'lsa va ikkinchi ob'ektning ishonchlilik darajasi I(O2) ga teng bo'lsa, u holda ushbu ikkita ob'ektdan iborat bo'lgan uchinchi ob'ektning ishonchlilik darajasi nimaga teng bo'ladiy Bu yerda, I(O1)>I(O2).",
+    "variantlar": [
+      "I(O2)",
+      "I(O1)",
+      "I(O2) va I(O4) ga bog'liq emas",
+      "Berilgan shartlar yetarli emas"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "90. Bell-Lapadula modeli axborotni qaysi xususiyatini ta'minlashni maqsad qiladi",
+    "variantlar": [
+      "faqat butunlikni",
+      "Konfidentsiallik",
+      "Foydalanuvchanlik va riskni",
+      "Ishonchlilik"
+    ],
+    "togri": 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "91. Muayyan faoliyat turi bilan bog'liq harakatlar va majburiyatlar to'plami bu?",
+    "variantlar": [
+      "Toliq emas imtiyozlar",
+      "Rol",
+      "Pas darajadagilar",
+      "Imkoniyati sheklanganlar"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "92. Tarmoqlararo ekranning vazifasi-bu:",
+    "variantlar": [
+      "Ishonchli va ishonchsiz tarmoqlar orasida ma’lumotlarga kirishni boshqaradi",
+      "Tarmoq hujumlarini aniqlamaydi va xavfsizlik cho'rasini ko'rmaslik",
+      "Trafikni to'ldirish",
+      "Tarmoqdagi xabarlar oqimini uzish va ulash, yo'q qilish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "93. Axborot xavfsizligining huquqiy ta’minotiga nimalar kiradi?",
+    "variantlar": [
+      "Qonunlar, aktlar, me’yoriy-huquqiy hujjatlar, qoidalar, yo‘riqnomalar, qo‘llanmalar majmui",
+      "Qoidalar yo‘riqnomalar, tizim arxitekturasi, xodimlar malakasi,dasturiy ta'minot",
+      "Qoidalar, yo‘riqnomalar, tizim strukturasi, dasturiy ta’minot",
+      "Himoya tizimini loyihalash, nazorat usullarini aylanib otishlar, shifrlash"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "94. Axborotni shifrlashning maqsadi nima?",
+    "variantlar": [
+      "Maxfiy xabar mazmunini yashirish",
+      "Ma’lumotlarni zichlashtirish, siqish",
+      "Kodlangan malumotlarni yig‘ish va sotish",
+      "Ma’lumotlarni sotish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "95. VPN ni kengaytmasi to‘g‘ri keltirilgan javobni toping?",
+    "variantlar": [
+      "Virtual Private Network",
+      "Virtual Personal Network",
+      "Visual Private Network",
+      "Visual Personal Network"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "96. Qaysi chora tadbirlar virusdan zararlanish holatini kamaytiradi?",
+    "variantlar": [
+      "Barcha javoblar to‘g‘ri",
+      "Faqat litsenziyali dasturiy ta’minotdan foydalanish",
+      "Kompyuterni zamonaviy antivirus dasturiy vositasi bilan ta’minlash va uni doimiy yangilab borish",
+      "Boshqa komyuterda yozib olingan ma’lumotlarni o‘qishdan oldin antivirus tekshiruvidan o‘tkazish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "97. Zararli dasturiy vositalarga qarshi foydalaniluvchi dasturiy vosita bu?",
+    "variantlar": [
+      "Antivirus",
+      "VPN",
+      "Tarmoqlararo ekran",
+      "Brandmauer"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "98. Kompyuter viruslarini tarqalish usullarini ko‘rsating?",
+    "variantlar": [
+      "Ma’lumot saqlovchilar, Internetdan yuklab olish va elektron pochta orqali",
+      "Ma’lumot saqlovchilar, Internetdan yuklab olish va skaner qurilmalari orqali",
+      "Printer qurilmasi, Internetdan yuklab olish va elektron pochta orqali.",
+      "Barcha javoblar to‘g‘ri"
+    ],
+    "togri": 3
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "99. Bluetooth standarti qaysi simsiz tarmoq turiga qiradi?",
+    "variantlar": [
+      "Shaxsiy simsiz tarmoq",
+      "Lokal simli tarmoq",
+      "Mintaqaviy simsiz tarmoq",
+      "Global simsiz tarmoq"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "100. Eng ko‘p foydalaniladigan autentifikatsiyalash asosi-bu:",
+    "variantlar": [
+      "Parolga asoslangan",
+      "Tokenga asoslangan",
+      "Biometrik va ovozli parametrlarga asoslangan",
+      "Smart karta va biometrik yuz tasviriga asoslangan"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "101. IPv6 protokolida IP manzil uchun necha bit ajratiladi",
+    "variantlar": [
+      "128",
+      "32",
+      "64",
+      "4"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "102. IPv4 protokolida IP manzil uchun necha bit ajratiladi.",
+    "variantlar": [
+      "32",
+      "64",
+      "128",
+      "4"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "103. OSI tarmoq modeli nechta sathdan iborat?",
+    "variantlar": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "104. Kriptografik kalit uzunligining o‘lchov birligi?",
+    "variantlar": [
+      "Bit",
+      "ASCII dan tashqari belgilar soni, kodning uzunligi",
+      "Km",
+      "Metr"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "105. Ma’lumotni xavfsiz yo‘q qilish nima uchun zarur?",
+    "variantlar": [
+      "Ma’lumotni to‘liq konfidensialligini ta’minlash uchun",
+      "Ma’lumotni butunligini va zaxira nusqa olishni ta’minlash uchun",
+      "Ma’lumotni foydalanuvchanligini ta’minlash uchun",
+      "Xotirani bo‘shatish uchun"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "106. Risk - .....",
+    "variantlar": [
+      "potensial foyda yoki zarar",
+      "aktiv qog'ozlar",
+      "faqat zararli va foydali dasturlar",
+      "foydalanilmagan dasturlar"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "107. Konfidensiallik axborotni ruxsatsiz .... himoyalash bilan shug'ullanadi. nuqtalar o'rniga to'g'ri keltirilgan so'zni toping.",
+    "variantlar": [
+      "yozishdan",
+      "o'qishdan",
+      "bajarmaslikdan",
+      "to'g'ri javob yoq"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "108. Yaxlitlik axborotni ruxsatsiz .... himoyalash yoki kamida o'zgartirilganligini aniqlash bilan shug'ullanadi. nuqtalar o'rniga to'g'ri keltirilgan so'zni toping.",
+    "variantlar": [
+      "yozishdan",
+      "o'qishdan",
+      "bajarmaslikdan",
+      "to'g'ri javob yoq"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "109. Foydalanuvchanlik axborotni(yoki tizimni) ruxsatsiz .... himoyalash bilan shug'ullanadi. nuqtalar o'rniga to'g'ri keltirilgan so'zni toping.",
+    "variantlar": [
+      "yozishdan",
+      "o'qishdan",
+      "bajarmaslikdan",
+      "to'g'ri javob yoq"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "110. Zaiflik - bu?",
+    "variantlar": [
+      "bir yoki bir nechta taqdidlarni amalga oshirishga imkon beruvchi tashkilot ",
+      "riskni o'zgartiradigan harakatlar",
+      "o'rnilarni alamshgan holda, foydalanish",
+      "himoyalanuvchi axborot yoki resurslar"
+    ],
+    "togri": 0
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "111. Aktiv - bu?",
+    "variantlar": [
+      "bir yoki bir nechta tafdidlarni amalga oshirishga imkon beruvchi tashkilot aktivi ",
+      "riskni o'zgartiradigan harakatlar",
+      "o'rnilarni almashgan holda foydalanish va potensial foydani olish",
+      "himoyalanuvchi axborot yoki resurslar"
+    ],
+    "togri": 3
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "112. Kiberetika bu nima?",
+    "variantlar": [
+      "dasturchi tamonidan yo'zilgan viruslar",
+      "etikaga oid munozaralar va mulkchilik tushunchasi",
+      "kompyuterlar bilan bog'liq falsafiy soha",
+      "Internet tarmog'ining doimiy ravishda o'sib borishi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "113. Ijtimoiy(sotsial) injineriyaning maqsadi nima?",
+    "variantlar": [
+      "buzg‘unchini topish",
+      "faqat telefon bilan bog'lik tahdidlarni aniqlash",
+      "axborotdan oqilona foydalanish va kodekslarni bilish",
+      "firibgarlik yo'li bilan shaxs to'g'risida maxfiy ma'lumotlarni olish"
+    ],
+    "togri": 3
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "114. Fishing bu nima?",
+    "variantlar": [
+      "Internetdagi firibgarlikning bir turi bo'lib maqsadi foydalanuchining maxfiy malumotlaridan",
+      "Internetdagi firibgarliklarga qarshi turishningturi bo'libuning maqsadi maxfiy maumotlarini",
+      "Korxona tizimlariga ta'sir qiladigan tarmoq hujumini oldini olish maqsadi",
+      "Yuqorida keltirilgan barchasi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "115. Kritpografiyaning asosiy bo'limlari nechta?",
+    "variantlar": [
+      "4",
+      "2",
+      "3",
+      "bo'limlari yo'q"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "116. \"O‘zbekiston Respublikasining milliy xavfsizligi konsepsiyasini tasdiqlash to‘g‘risida\" qonuni qachon qabul qilindi?",
+    "variantlar": [
+      "29-avgust 1990 -yil",
+      "29-avgust 1997 -yil",
+      "29-yanvar 1992 -yil",
+      "8-dekabr 1999 -yil"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "117. Xaker - bu?",
+    "variantlar": [
+      "faqat viruslarni va antivirus dasturlaridan foydalanuchi odam.",
+      "tizimli dasturiy ta’minotga ko‘pincha noqonuniy o‘zgartirishlar kiritishga urinuvchi foydalanu",
+      "faqat o‘zni kompyuterman dep tanishtiradigan odam.",
+      "nazorot tosiqlaridan foydalanuchi odam."
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "118. Steganografiya nimanalarni o‘rganuvchi fan sohasi?",
+    "variantlar": [
+      "tarmoq hujumini",
+      "tarmoqni yashirincha eshitishni",
+      "konfidensial axborotni yashirishning matematik usullarini",
+      "bostirib kirishlarni aniqlashni"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "119. Skrembler - bu qanaqa qurilma?",
+    "variantlar": [
+      "raqamli kanalda ishlatiluvchi, bitlarning ketma-ketligini shakllantiruvchi kodlovchi qur",
+      "raqamli kanallarda ishlatilmaydan qurilma.",
+      "tarmoqni yashirincha eshitish qurilmasi",
+      "tarmoq hujumining oldini olish qurilmasi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "120. Sniffing - bu?",
+    "variantlar": [
+      "raqamli kanalda shifrlarni yaratuvchi qurilma",
+      "raqamli kanallarda ishlatilmaydan qurilma.",
+      "tarmoqni yashirincha eshitish",
+      "tarmoq hujumining oldini olish"
+    ],
+    "togri": 2
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "121. Bir martali parol bu?",
+    "variantlar": [
+      "faqat bitta seans yoki tranzaksiya uchun haqiqiy parol",
+      "faqat to‘rta seansda amal qiladigan haqiqiy emas parol",
+      "dasturning avariyali tugallanishini sabab bo'lishi",
+      "shifrlanmagan ochiq portli kalitlar"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "122. Litsenziya - bu?",
+    "variantlar": [
+      "sotish yoki xizmat ko‘rsatish huquqiga ruxsatnoma.",
+      "faqat olish huquqiga ega ma'lumot",
+      "olish va uzatish huquqlariga bo‘g‘liq dasturiy kompleks",
+      "maxfiy ma'lumotlar toplami"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "123. Axborotni himoyalashning aksariyat mexanizmlari asosini nima tashkil etadi?",
+    "variantlar": [
+      "shifrlash",
+      "deshifrlash",
+      "dekodlash",
+      "formatlash"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "124. Nima yordamida shifrlash natijalarini o'zgartirish mumkin?",
+    "variantlar": [
+      "Shifrlash kaliti",
+      "Formatlash",
+      "Eng sodda usuldan foydalanish",
+      "Loglash"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "125. AQSHning axborotni shifrlash standarti sifatida to'g'ri keltirilgan javobni toping.",
+    "variantlar": [
+      "DES",
+      "Affine",
+      "MAC",
+      "Simmetrik"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "126. DES standartida dastlabki axborot necha bitli bloklarga ajratiladi?",
+    "variantlar": [
+      "120",
+      "64",
+      "48",
+      "8"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "127. Elektron raqamli imzo bu nima?",
+    "variantlar": [
+      "Elektron maʼlumotlarni kriptografik oʻzgartirish natijasida hosil qilingan belgilar ketm",
+      "Qog'oz ko'rnishidagi ma'lumotlarni yoq qiladigan usul",
+      "Apparat-dasturiy ko'rinishdagi vosita",
+      "Tokenni foydalanish uchun PIN kodlarning xa'toligi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "128. Qog'oz ko'rinishdagi hujjatlarni yo'q qilish usullari to'g'ri keltirilgan javobi aniqlang.",
+    "variantlar": [
+      "Magnitsizlantirish, Yanchish, Ko'mish",
+      "Ko'mish, Yoqish, Maydalash",
+      "Maydalash, Yanchish, Magnitsizlantirish",
+      "Yoqish, ko'mish, UE-02 qurilmasi yordamida yo'q qilish"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "129. Elektron hujjatlarni yo'q qilish usullari to'g'ri keltirilgan javobi aniqlang.",
+    "variantlar": [
+      "Magnitsizlantirish, Yanchish, Ko'mish",
+      "Ko'mish, Yoqish, Maydalash",
+      "Maydalash, Yanchish, Magnitsizlantirish, Yoqish",
+      "Magnitsizlantirish, Shrederlash, UE-02 qurilmasi yordamida yo'q qilish"
+    ],
+    "togri": 3
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "130. Identifikatsiya - bu?",
+    "variantlar": [
+      "shaxsni kimdir dep da'vo qilish jarayoni",
+      "foydalanuvchining tizimdan foydalanish huquqiga egaligini tekshirish jarayoni",
+      "Foydalanuvchi paroli",
+      "ketma -ket amallarni bajarish huquqini o'zgartirish jarayoni"
+    ],
+    "togri": 0
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "131. Autentifikatsiya - bu?",
+    "variantlar": [
+      "shaxsni kimdir dep da'vo qilish jarayoni",
+      "foydalanuvchining (yoki uning nomidan ish ko'ruvchi vositaning) tizimdan foydalanish huquqiga egaligini tekshirish jarayoni",
+      "Foydalanuvchi identifikation raqamlarini uzatish jarayoni",
+      "ketma -ket amallarni bajarish huquqini o'zgartirish va yo'q qilish jarayoni"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "132. Avtorizatsiya - bu?",
+    "variantlar": [
+      "shaxsni kimdir dep da'vo qilish jarayoni",
+      "foydalanuvchining (yoki uning nomidan ish ko'ruvchi vositaning) tizimdan foydalanish h",
+      "Foydalanuvchi identifikation raqamlarini uzatish jarayoni",
+      "identifikatsiya va autentifikatsiya jarayonlaridan muvaffaqiyatli o'tgan foydalanuvchig tizimda a"
+    ],
+    "togri": 3
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "133. Parol tizimlari nima?",
+    "variantlar": [
+      "Maxfiy identifikatorlarga - parollarga asoslangan tizimlar autentifikatsiyaning an'anaviy vositalari hisoblanadi.",
+      "Tizimlarda parollar bardoshligini baholashda qo'llanadigan texnik uskuna",
+      "Doimiy noyob axborotni saqlashni ta'minlaydigan subyekt",
+      "Sinxron dinamik qurilmalarnin o'zgarishini baholash va tokendagi tizimlarni sinxronlanishi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "134. Xatolarga bardoshlilik: bu?",
+    "variantlar": [
+      "bu omil tizimda xatolik kuzatilgan taqdirda ham ishlamay qolmaslik shartini ko‘rsatadi;",
+      "xizmatlar, shuningdek, tizimlar ham har doim mavjud bo‘lishi kerak;",
+      "infrastruktura tarkibidagi ma’lumotlar yaxlitligi, undagi jarayonlar va xodimlar ishlamay qolgan taqdirda ham ",
+      "Xizmat ko‘rsatishdan voz kechishga undash"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "135. Mos tarmoq servislaridan foydalanish orqali turli xil tarmoq resurslarini taqdim etish vazifasi yuklatilgan tarmoq kompyuteri nima deb ataladi?",
+    "variantlar": [
+      "server",
+      "Ishchi stansiyasi",
+      "topologiya",
+      "Kodlashtirish"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "136. Tarmoq resurslaridan va turli tarmoq servislaridan foydalanish maqsadida serverga so‘rov yuboruvchi tarmoq qurilmalari nima deb ataladi?",
+    "variantlar": [
+      "Mijozlar",
+      "Di-up serverlari",
+      "Portlar",
+      "Topologiya"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "137. Tarmoqqa qaratilgan tahdidlar odatda nechta turga ajratiladi?",
+    "variantlar": [
+      "2",
+      "4",
+      "Bo'linmaydi",
+      "8"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "138. Qanaqa dasturlar firibgar dasturiy ta‘minoti yoki “chaqqon dastur” deb nomlanib, ular antivirus dasturlariga o‘xshasada, vazifasi boshqacha?",
+    "variantlar": [
+      "Soxta antivirus va xavfsizlik dasturlari",
+      "Dekodlovchi dastur",
+      "Soxta lotareyakar",
+      "IVR"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "139. .....– risklarni aniqlash, baholash, javob berish va bo‘lishi mumkin bo‘lgan ta’sirga tashkilot tomonidan javob berilishini amalga oshirish jarayoni.",
+    "variantlar": [
+      "Risklarni boshqarish",
+      "Risklarni yo'q qilish",
+      "Ilovalarni bekor qilish",
+      "Zaifliklarni boshqarish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "140. Ma’lumotlarni zaxira nusxalash jarayoni qanaqa?",
+    "variantlar": [
+      "muhim ma’lumotlarni nusxalash yoki saqlash jarayoni",
+      "muhim ma’lumotlarni nusxalashni va saqlashni bekor qilish jarayoni",
+      "zarar yetkazilgan fileni ochirish",
+      "ma’lumotlar yo‘qolishi moliyaviy tomondan va mijozlarga aloqador holda ta’sir qilishini bahol"
+    ],
+    "togri": 0
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "141. Qasddan yoki tasodifan ma’lumotlarning o‘chirib yuborilishi bu nima?",
+    "variantlar": [
+      "Inson xatosi",
+      "Tabiy ofatlar",
+      "Risklarni boshqarish",
+      "Zaifliklarni yo'q qilish"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "142. Odatda zararli dasturiy vositalar nechta turga bo‘linadi?",
+    "variantlar": [
+      "6",
+      "9",
+      "2",
+      "bo‘linmaydi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "143. Nima sababdan amalda ko‘p uchraydigan dasturlash tillaridagi kamchiliklar, odatda, taqiqlangan formatdagi yoki hajmdagi ma’lumotlarning kiritilishi natijasida kelib chiqadi?",
+    "variantlar": [
+      "Nuqsonni yo'q qilinishi",
+      "Xotiraning to'lib-toshishi",
+      "soha maydonini minimallashitirish",
+      "Dasturining xavfsizligining fundamental prinsiplari yo'q qilinishi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "144. Qaysi nazoratlash qopqon chegarani buzib o‘tuvchini tutuvchi fizik xavfsizlikni nazoratlash vositasi hisoblanadi?",
+    "variantlar": [
+      "Biba modeli",
+      "Fizik xavfsizlik",
+      "Virusli kodlardan tozalash modeli",
+      "Bell-LaPadul modeli"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "145. Ma’lumotlar yaxlitligini ta’minlashga yo‘naltirilgan modelni ko'rsating.",
+    "variantlar": [
+      "RSA model",
+      "Biba model",
+      "Fizik xavfsizlik model",
+      "ACL model"
+    ],
+    "togri": 1
+  },
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "146. Qaysi standartda quyidagi asosiy tushunchalar mavjud: qoidalar (rules), siyosat (policy)?",
+    "variantlar": [
+      "ABACC",
+      "RBAS",
+      "XACML",
+      "RDAML"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "147. Qaysi iyerarxiyada rollarning haqiqiy iyerarxiyasini yaratish orqali real biznes jarayonlarini aks ettiruvchi rollar tizimini yaratish mumkin?",
+    "variantlar": [
+      "Majburiyatlarni ajratish iyerarxiyasida",
+      "Rollar iyerarxiyasida",
+      "Aktiv imtiyoz iyerarxiyasida",
+      "Subyekt iyerarxiyasida"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "148. Qaynday tizimlar biometrik qurilmalar tirik organizmning fiziologik yoki odatiy xarakateristikalariga asoslangan?",
+    "variantlar": [
+      "Kerberos tizimlarida",
+      "Biometrik tizimlarda",
+      "Tarmoq tizimlarida",
+      "TEA tizimlarida"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "149. RSA algoritmning yaratuvchilarini ko'rsating.",
+    "variantlar": [
+      "Rivest, Shamir va Adleman",
+      "Roky, Shanell va Adleman",
+      "Roll, Sherry va Leman",
+      "to'g'ri javob yo'q"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "150. Qaysi siyosat parollarni hosil qilish, himoyalash va almashtirish stadnartlarini aniqlaydi?",
+    "variantlar": [
+      "parollarni himoyalash",
+      "jiddiy axborot",
+      "xavf-xatarni baholash",
+      "server xavfsizligi"
+    ],
+    "togri": 0
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "151. Qanday tahdidda axborot tizimining xavfsizligiga bevosita yoki bilvosita zarar yetkazuvchi ta'sir imkoni tushuniladi?",
+    "variantlar": [
+      "Dekodlashga qarshi tahdid",
+      "Axborot tizimiga tahdid",
+      "Faqat xatoli ma'lumotlarni kiritish tahdidi",
+      "to'g'ri javob yo'q"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "152. Deshifrlash nima?",
+    "variantlar": [
+      "shifrlashga teskari jarayon",
+      "kalitni bilmasdan shiflash",
+      "shifrlash usuli",
+      "kalit yordamida shifrlash"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "153. AQShning axborotni shifrlash standartini keltirilgan javobni ko'rsating?",
+    "variantlar": [
+      "DES(Data Encryption Standart)",
+      "RSI (Rivest, Shamir ‚ Idem)",
+      "AIS (Advanced in Standart)",
+      "Aniq standart ishlatilmaydi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "154. Axborotni ishlovchi zamonaviy tizimlarning makro dasturlarini va fayllarini  xususan  Microsoft Word   Microsoft Exsel  kabi ommaviy muxarrirlarning fayl xujjatlarini va elektron jadvallarni zaxarlaydigan viruslarni ko'rsating:",
+    "variantlar": [
+      "Makroviruslar",
+      "Faqat mikron viruslar",
+      "Makro dasturlar",
+      "Zararsiz dasturlar"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Kiber xavfsizlik",
+    "savol": "155. Biometrik autentifikatsiyalashning avfzalliklari-bu:",
+    "variantlar": [
+      "Biometrik alomatlarning noyobligi",
+      "faqar bir martali parol bilan ishlatilishi",
+      "Biometrik alomatlarni o'zgartirish imkoniyati",
+      "Autentifikatsiyalash jarayonining soddaligi"
+    ],
+    "togri": 0
+  }
+]
