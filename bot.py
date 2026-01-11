@@ -111,6 +111,8 @@ def is_blocked(uid):
 # ================== STATE ==================
 sessions = {}
 admin_auth = set()
+admin_broadcast = set()
+
 
 # ================== KEYBOARDS ==================
 def main_menu():
@@ -396,9 +398,52 @@ async def admin_login(msg: Message):
     admin_auth.add(msg.from_user.id)
     kb = InlineKeyboardMarkup(inline_keyboard=[
         [InlineKeyboardButton(text="👥 Userlar (bloklash)", callback_data="admin_users")],
-        [InlineKeyboardButton(text="♻️ Natijalarni 0 qilish", callback_data="admin_reset")]
+        [InlineKeyboardButton(text="♻️ Natijalarni 0 qilish", callback_data="admin_reset")],
+        [InlineKeyboardButton(text="📢 Foydalanuvchilarga xabar yuborish", callback_data="admin_broadcast")]
     ])
     await msg.answer("🛠 <b>Admin Panel</b>", reply_markup=kb)
+
+
+
+
+
+
+@dp.message(F.from_user.id.in_(lambda: admin_broadcast))
+async def admin_send_broadcast(msg: Message):
+    uid = msg.from_user.id
+
+    if uid not in admin_auth:
+        return
+
+    admin_broadcast.discard(uid)
+
+    con = db()
+    cur = con.cursor()
+    cur.execute("SELECT user_id FROM users WHERE blocked = 0")
+    users = cur.fetchall()
+    con.close()
+
+    sent = 0
+    failed = 0
+
+    for (user_id,) in users:
+        try:
+            await bot.send_message(user_id, msg.text)
+            sent += 1
+            await asyncio.sleep(0.05)  # flooddan saqlaydi
+        except:
+            failed += 1
+
+    await msg.answer(
+        f"✅ <b>Xabar yuborildi</b>\n\n"
+        f"👥 Yuborildi: <b>{sent}</b>\n"
+        f"❌ Yetib bormadi: <b>{failed}</b>"
+    )
+
+
+
+
+
 
 
 @dp.callback_query(F.data == "admin_users")
@@ -446,6 +491,23 @@ async def toggle(call: CallbackQuery):
     con.close()
 
     await call.answer("Holat o‘zgartirildi", show_alert=True)
+
+
+
+@dp.callback_query(F.data == "admin_broadcast")
+async def admin_broadcast_start(call: CallbackQuery):
+    if call.from_user.id not in admin_auth:
+        return await call.answer("❌ Ruxsat yo‘q", show_alert=True)
+
+    admin_broadcast.add(call.from_user.id)
+    await call.message.answer(
+        "📢 <b>Barcha foydalanuvchilarga yuboriladigan xabarni yozing:</b>\n\n"
+        "❗ Keyingi yuborgan xabaringiz hammaga jo‘natiladi."
+    )
+    await call.answer()
+
+
+
 
 
 
