@@ -1146,6 +1146,8 @@
 
 
 
+
+
   {
     "fan": "Sun'iy intellekt asoslari",
     "savol": "Transfer Learning (O‘tkazma o‘qitish) nima?",
@@ -1922,7 +1924,7 @@
       "6",
       "2"
     ],
-    "togri": 0
+    "togri": 1
   },
   {
     "fan": "Kiber xavfsizlik",
@@ -2855,7 +2857,7 @@
       "28",
       "21"
     ],
-    "togri": 3
+    "togri": 0
   },
   {
     "fan": "Kiber xavfsizlik",
@@ -3032,7 +3034,7 @@
       "Printer qurilmasi, Internetdan yuklab olish va elektron pochta orqali.",
       "Barcha javoblar to‘g‘ri"
     ],
-    "togri": 3
+    "togri": 0
   },
   {
     "fan": "Kiber xavfsizlik",
@@ -3235,11 +3237,11 @@
     "savol": "115. Kritpografiyaning asosiy bo'limlari nechta?",
     "variantlar": [
       "4",
-      "2",
       "3",
+      "2",
       "bo'limlari yo'q"
     ],
-    "togri": 0
+    "togri": 1
   },
 
   {
