@@ -2850,12 +2850,12 @@
   },
   {
     "fan": "Kiber xavfsizlik",
-    "savol": "84. Diffie-Hellman kalit almashtirish tizimidan foydalanib, ikki muassasa o‘rtasida xavfsiz bank tizimi yo‘lga qo‘yilmoqda. Quyidagi berilgan parametrlar orqali ular foydalanadigan umumiy sirli kalitni (shared secret key) toping.\n\nOchiq parametrlar: p=23, g=5\nBirinchi bank a=9 ta shaxsiy kalitdan, ikkinchi bank b=12 ta shaxsiy kalitdan foydalanadi. Banklar foydalanadigan umumiy sirli kalitni hisoblang.\n\nKalit = ?",
+    "savol": "84. Diffie-Hellman kalit almashtirish tizimidan foydalanib, ikki muassasa o‘rtasida xavfsiz bank tiz",
     "variantlar": [
       "12",
       "8",
       "28",
-      "21"
+      "21 "
     ],
     "togri": 0
   },
@@ -2876,9 +2876,9 @@
     "savol": "86. Yong'inga qarshi kurashishning passiv usuliga kiruvchi choralarni ko'rsating.",
     "variantlar": [
       "Yong'inni aniqlash, qum yordamida o'chirish va tez yo'nadigan materiallardam foydalanish",
-      "Yong'inga chidamli materiallardan foydalanish, zaxira xona va etajlarni qoldirish, tushuntiruv ishlarini olib borish",
+      "Yong'inga chidamli materiallardan foydalanish, zaxira xona va etajlarni qoldirish, tushuntiruvi",
       "Yong'inga chidamsiz materiallardan foydalanish, qum yordamida o'chirish",
-      "Zaxira xona va etajlarni qoldirmaslik, tushuntiruv ishlarini olib borish, yong'in bo'lganligi haqida signalni vaqtida bermaslik"
+      "Zaxira xona va etajlarni qoldirmaslik, tushuntiruv ishlarini olib borish, yong'in bo'lganl"
     ],
     "togri": 1
   },
