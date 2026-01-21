@@ -1,7 +1,7 @@
 [
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Sun'iy intellekt (AI) atamasining eng umumiy ta'rifi qanday?",
+    "savol": "1.Sun'iy intellekt (AI) atamasining eng umumiy ta'rifi qanday?",
     "variantlar": [
       "Faqatgina matematik hisob-kitoblarni bajaruvchi dastur",
       "Inson kabi fikrlash, qaror qabul qilish va o‘rganish qobiliyatiga ega tizimlar",
@@ -12,7 +12,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Alan Tyuring tomonidan taklif etilgan «Tyuring testi»ning asosiy maqsadi nima?",
+    "savol": "2.Alan Tyuring tomonidan taklif etilgan «Tyuring testi»ning asosiy maqsadi nima?",
     "variantlar": [
       "Kompyuterning hisoblash tezligini aniqlash",
       "Dasturning xatolarini topish",
@@ -23,7 +23,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Kuchli sun'iy intellekt» tushunchasi nimani anglatadi?",
+    "savol": "3.«Kuchli sun'iy intellekt» tushunchasi nimani anglatadi?",
     "variantlar": [
       "Faqat shaxmat o‘ynay oladigan tizim",
       "Inson aqli darajasida fikrlay oladigan va har qanday intellektual vazifani bajara oladigan tizim",
@@ -34,7 +34,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Kuchsiz sun'iy intellekt»ga misol qaysi?",
+    "savol": "4.«Kuchsiz sun'iy intellekt»ga misol qaysi?",
     "variantlar": [
       "O‘zini-o‘zi tushunadigan robot",
       "Inson kabi hissiyotga ega tizim",
@@ -45,7 +45,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Sun'iy intellektning rivojlanish tendensiyasida qaysi yo‘nalish hozirda eng ko‘p tarqalgan hisoblanadi?",
+    "savol": "5.Sun'iy intellektning rivojlanish tendensiyasida qaysi yo‘nalish hozirda eng ko‘p tarqalgan hisoblanadi?",
     "variantlar": [
       "Chuqur o‘qitish va neyron tarmoqlar",
       "Faqatgina mantiqiy qoidalarga asoslangan tizimlar",
@@ -56,7 +56,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ma'lumotlarni intellektual tahlil qilish (Data Mining) jarayonining asosiy maqsadi nima?",
+    "savol": "6.Ma'lumotlarni intellektual tahlil qilish jarayonining asosiy maqsadi nima?",
     "variantlar": [
       "Ma'lumotlarni oddiy saqlash",
       "Katta hajmdagi ma'lumotlar ichidan yashirin qonuniyatlar va yangi bilimlarni ajratib olish",
@@ -67,7 +67,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ma'lumotlarni tozalash jarayonida nima amalga oshiriladi?",
+    "savol": "7.Ma'lumotlarni tozalash jarayonida nima amalga oshiriladi?",
     "variantlar": [
       "Ma'lumotlar hajmi orttiriladi",
       "Barcha ma'lumotlar shifrlanadi",
@@ -78,7 +78,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ma'lumotlar integratsiyasi deganda nima tushuniladi?",
+    "savol": "8.Ma'lumotlar integratsiyasi deganda nima tushuniladi?",
     "variantlar": [
       "Turli manbalardan olingan ma'lumotlarni yagona bazaga birlashtirish",
       "Ma'lumotlarni bo‘limlarga ajratish",
@@ -89,7 +89,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ma'lumotlarni normallashtirish (Normalizatsiya) nega kerak?",
+    "savol": "9.Ma'lumotlarni normallashtirish (Normalizatsiya) nega kerak?",
     "variantlar": [
       "Ma'lumotlarni kamaytirish uchun",
       "Turli o‘lchov birligidagi ma'lumotlarni bir xil diapazonga (masalan, 0 va 1 oralig‘iga) keltirish uchun",
@@ -100,7 +100,18 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Izlash algoritmlaridan biri bo‘lgan «Kenglik bo‘yicha izlash» (BFS) qanday ishlaydi?",
+    "savol": "10.Ma'lumotlarni qisqartirish usullariga nima kiradi?",
+    "variantlar": [
+      "Ma'lumotlarni nusxalash",
+      "Ma'lumotlarni rangli belgilash",
+      "O‘lchamlarni qisqartirish va klasterlash",
+      "Ma'lumotlarni internetga yuklash"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "11.Izlash algoritmlaridan biri bo‘lgan «Kenglik bo‘yicha izlash» (BFS) qanday ishlaydi?",
     "variantlar": [
       "Daraxtning barcha qo‘shni tugunlarini ko‘rib chiqib, so‘ng keyingi qavatga o‘tadi",
       "Daraxtning imkon qadar chuqur qismiga borib, keyin qaytadi",
@@ -111,7 +122,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Chuqurlik bo‘yicha izlash» (DFS) algoritmidagi qanday ma'lumotlar strukturasidan foydalaniladi?",
+    "savol": "12.«Chuqurlik bo‘yicha izlash» (DFS) algoritmidagi qanday ma'lumotlar strukturasidan foydalaniladi?",
     "variantlar": [
       "Navbat",
       "Stek",
@@ -120,9 +131,22 @@
     ],
     "togri": 1
   },
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Intellektual agent deb nimaga aytiladi?",
+    "savol": "13.Intellektual agent deb nimaga aytiladi?",
     "variantlar": [
       "Faqat kuzatuvchi dasturga",
       "Muhitni sezuvchi va maqsadga erishish uchun unda harakat qiluvchi tizimga",
@@ -133,7 +157,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Agent muhitdan ma'lumotni nima orqali qabul qiladi?",
+    "savol": "14.Agent muhitdan ma'lumotni nima orqali qabul qiladi?",
     "variantlar": [
       "Ijrochi mexanizmlar orqali",
       "Sensorlar orqali",
@@ -144,7 +168,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Agent muhitga ta'sir o‘tkazish uchun nimadan foydalanadi?",
+    "savol": "15.Agent muhitga ta'sir o‘tkazish uchun nimadan foydalanadi?",
     "variantlar": [
       "Sensorlardan",
       "Aktuatorlardan (Ijrochilardan)",
@@ -155,7 +179,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Ratsional agent» deganda qanday agent tushuniladi?",
+    "savol": "16.«Ratsional agent» deganda qanday agent tushuniladi?",
     "variantlar": [
       "Har doim xato qiladigan agent",
       "Faqat tasodifiy harakat qiladigan agent",
@@ -166,7 +190,18 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Refleksiv agent (Simple Reflex Agent) qanday qaror qabul qiladi?",
+    "savol": "17.Agent muhitining «Deterministik» bo‘lishi nimani anglatadi?",
+    "variantlar": [
+      "Keyingi holat joriy holat va agent harakati bilan to‘liq aniqlanadi",
+      "Keyingi holatni oldindan aytib bo‘lmaydi",
+      "Muhit o‘z-o‘zidan o‘zgarib turadi",
+      "O‘rtada boshqa agentlar ham bor"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "18.Refleksiv agent (Simple Reflex Agent) qanday qaror qabul qiladi?",
     "variantlar": [
       "O‘tmishdagi barcha voqealarni tahlil qiladi",
       "Faqat hozirgi holatga (qabul qilingan signalga) tayanib, oldindan belgilangan qoida bo‘yicha harakat qiladi",
@@ -177,7 +212,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Bilimlar bazasi nima?",
+    "savol": "19.Bilimlar bazasi nima?",
     "variantlar": [
       "Oddiy ma'lumotlar ombori",
       "Ma'lum bir soha bo‘yicha faktlar va qoidalar to‘plami",
@@ -188,7 +223,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Bilimlarni ifodalashning «Produktsion modeli» qanday ko‘rinishda bo‘ladi?",
+    "savol": "20.Bilimlarni ifodalashning «Produktsion modeli» qanday ko‘rinishda bo‘ladi?",
     "variantlar": [
       "Jadval ko‘rinishida",
       "Grafika ko‘rinishida",
@@ -199,7 +234,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Freym» (Frame) modeli bilimlarni qanday tasvirlaydi?",
+    "savol": "21.«Freym» (Frame) modeli bilimlarni qanday tasvirlaydi?",
     "variantlar": [
       "Ob'ektlar va ularning xususiyatlarini (slotlarini) o‘z ichiga olgan struktura sifatida",
       "Mantiqiy formulalar sifatida",
@@ -210,7 +245,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Semantik to‘r (Semantic Network) modelida tugunlar va yoylar nimani bildiradi?",
+    "savol": "22.Semantik to‘r (Semantic Network) modelida tugunlar va yoylar nimani bildiradi?",
     "variantlar": [
       "Tugunlar - sonlar, yoylar - amallar",
       "Tugunlar - tushunchalar, yoylar - ular orasidagi munosabatlar",
@@ -221,7 +256,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Bayes teoremasi sun'iy intellektda asosan nima uchun qo‘llaniladi?",
+    "savol": "23.Bayes teoremasi sun'iy intellektda asosan nima uchun qo‘llaniladi?",
     "variantlar": [
       "Ma'lumotlarni tezkor qidirish uchun",
       "Tasvirlarni chizish uchun",
@@ -232,7 +267,32 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ekspert tizimi nima?",
+    "savol": "24.Noaniq mantiqning (Fuzzy logic) klassik mantiqdan farqi nimada?",
+    "variantlar": [
+      "Farqi yo‘q",
+      "Faqatgina «Rost» (1) va «Yolg‘on» (0) qiymatlarini oladi",
+      "Qiymatlar [0, 1] oralig‘idagi istalgan qiymatni qabul qilishi mumkin (masalan, «qisman issiq»)",
+      "Faqatgina manfiy sonlar bilan ishlaydi"
+    ],
+    "togri": 2
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "25.Ekspert tizimi nima?",
     "variantlar": [
       "Barcha masalalarni yecha oladigan universal dastur",
       "Tor ixtisoslashgan sohada inson-ekspert kabi maslahat bera oladigan va qaror qabul qiladigan dasturiy ta'minot",
@@ -243,7 +303,18 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ekspert tizimida «Mantiqiy xulosa chiqarish mashinasi» nima vazifani bajaradi?",
+    "savol": "26.Ekspert tizimining asosiy tarkibiy bo‘limlari qaysilar?",
+    "variantlar": [
+      "Monitor, klaviatura, sichqoncha",
+      "Bilimlar bazasi, mantiqiy xulosa chiqarish mashinasi, foydalanuvchi interfeysi",
+      "Internet, brauzer, server",
+      "Ma'lumotlar bazasi va SQL so‘rovlar"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "27.Ekspert tizimida «Mantiqiy xulosa chiqarish mashinasi» nima vazifani bajaradi?",
     "variantlar": [
       "Foydalanuvchi bilan so‘zlashadi",
       "Bilimlarni saqlaydi",
@@ -254,7 +325,29 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ekspert tizimini yaratishda «Bilim muhandisi» (Knowledge engineer) kim?",
+    "savol": "28.Aniq emas bilimlarga asoslangan ekspert tizimlarida qanday o‘zgaruvchilar qo‘llaniladi?",
+    "variantlar": [
+      "Aniq sonlar (5, 10, 100)",
+      "Lingvistik o‘zgaruvchilar",
+      "Ikkilik kodlar",
+      "Geometrik figuralar"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "29.Ekspert tizimlarining kamchiligi nimada?",
+    "variantlar": [
+      "Ular hech qachon charchamaydi",
+      "Ular faqat o‘ziga kiritilgan bilim doirasida ishlaydi va ijodiy yondasha olmaydi",
+      "Ular juda tez ishlaydi",
+      "Ular hissiz qaror qabul qiladi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "30.Ekspert tizimini yaratishda «Bilim muhandisi» (Knowledge engineer) kim?",
     "variantlar": [
       "Ekspertdan bilimlarni olib, kompyuter tushunadigan turga o‘tkazuvchi",
       "Tizimdan foydalanuvchi oddiy inson",
@@ -265,7 +358,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Mashinaviy o‘qitishning an'anaviy dasturlashdan asosiy farqi nimada?",
+    "savol": "31.Mashinaviy o‘qitishning an'anaviy dasturlashdan asosiy farqi nimada?",
     "variantlar": [
       "Hech qanday farqi yo‘q",
       "An'anaviy dasturlashda ma'lumotlar bo‘lmaydi",
@@ -276,7 +369,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Nazorat ostidagi o‘qitish» (Supervised learning) nima?",
+    "savol": "32.«Nazorat ostidagi o‘qitish» (Supervised learning) nima?",
     "variantlar": [
       "Ma'lumotlarda javoblar bo‘lmaydi",
       "Model kiruvchi ma'lumotlar va ularga mos keluvchi to‘g‘ri javoblar (teglar) asosida o‘qitiladi",
@@ -287,7 +380,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Nazoratsiz o‘qitish» (Unsupervised learning) qanday ishlaydi?",
+    "savol": "33.«Nazoratsiz o‘qitish» (Unsupervised learning) qanday ishlaydi?",
     "variantlar": [
       "To‘g‘ri javoblar oldindan beriladi",
       "To‘g‘ri javoblar berilmaydi, algoritm ma'lumotlar ichidagi strukturani o‘zi topadi",
@@ -298,7 +391,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Mustahkamlovchi o‘qitishning (Reinforcement learning) asosiy prinsipi nima?",
+    "savol": "34.Mustahkamlovchi o‘qitishning (Reinforcement learning) asosiy prinsipi nima?",
     "variantlar": [
       "Ma'lumotlarni tozalash",
       "Tasvirlarni tanish",
@@ -309,7 +402,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Nazorat ostidagi o‘qitishda qanday turdagi masalalar yechiladi?",
+    "savol": "35.Nazorat ostidagi o‘qitishda qanday turdagi masalalar yechiladi?",
     "variantlar": [
       "Regressiya va klassifikatsiya (klaslarga bo‘lish)",
       "Klasterlash va birlashtirish",
@@ -320,7 +413,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Haddan tashqari o‘qitib yuborish» (Overfitting) hodisasi nima?",
+    "savol": "36.«Haddan tashqari o‘qitib yuborish» (Overfitting) hodisasi nima?",
     "variantlar": [
       "Modelning juda sekin ishlashi",
       "Modelning hech narsani o‘rganmasligi",
@@ -331,7 +424,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Regressiya masalasi qanday natijani bashorat qilishga qaratilgan?",
+    "savol": "37.Regressiya masalasi qanday natijani bashorat qilishga qaratilgan?",
     "variantlar": [
       "Klass nomi (masalan: «Mushuk» yoki «Kuchuk»)",
       "Uzluksiz sonli qiymatni",
@@ -342,7 +435,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Klassifikatsiyalash masalasiga misol qaysi?",
+    "savol": "38.Klassifikatsiyalash masalasiga misol qaysi?",
     "variantlar": [
       "Ertangi havo haroratini aniq gradusda topish",
       "Aksiyalar narxini bashorat qilish",
@@ -351,9 +444,27 @@
     ],
     "togri": 2
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Chiziqli regressiya modeli qanday funksiyani anglatadi?",
+    "savol": "39.Chiziqli regressiya modeli qanday funksiyani anglatadi?",
     "variantlar": [
       "y=wx+b (to‘g‘ri chiziq tenglamasi)",
       "y = sinx",
@@ -364,7 +475,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Chiziqli regressiyada «Xatolik funksiyasi» nimani hisoblaydi?",
+    "savol": "40.Chiziqli regressiyada «Xatolik funksiyasi» nimani hisoblaydi?",
     "variantlar": [
       "Modelning ishlash tezligini",
       "Bashorat qilingan qiymat va haqiqiy qiymat orasidagi xatolikni (masalan, MSE)",
@@ -375,7 +486,18 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Logistik regressiya qaysi turdagi masalalar uchun qo‘llaniladi?",
+    "savol": "41.MSE nimani anglatadi?",
+    "variantlar": [
+      "O‘rtacha absolyut xatolik",
+      "O‘rtacha kvadratik xatolik",
+      "Maksimal xatolik",
+      "Minimal xatolik"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "42.Logistik regressiya qaysi turdagi masalalar uchun qo‘llaniladi?",
     "variantlar": [
       "Regressiya (sonli qiymatni topish)",
       "Ehtimollikni aniqlash orqali klassifikatsiyalash",
@@ -386,7 +508,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Logistik regressiyada qiymatlarni 0 va 1 oralig‘iga o‘tkazuvchi funksiya qaysi?",
+    "savol": "43.Logistik regressiyada qiymatlarni 0 va 1 oralig‘iga o‘tkazuvchi funksiya qaysi?",
     "variantlar": [
       "ReLU",
       "Sigmoid",
@@ -397,7 +519,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Qaror chegarasi» (Decision boundary) nima?",
+    "savol": "44.«Qarar chegarasi» (Decision boundary) nima?",
     "variantlar": [
       "Dasturning ishlash chegarasi",
       "Ma'lumotlar bazasining hajmi",
@@ -408,7 +530,35 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "K-yaqin qo‘shnilar (KNN) algoritmi qanday ishlaydi?",
+    "savol": "45.Softmax funksiyasi qachon ishlatiladi?",
+    "variantlar": [
+      "Faqat ikki klassli klassifikatsiyada",
+      "Ko‘p klassli klassifikatsiyada ehtimolliklarni taqsimlash uchun",
+      "Regressiya masalasida",
+      "Tasvirlarni qirqishda"
+    ],
+    "togri": 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "46.K-yaqin qo‘shnilar (KNN) algoritmi qanday ishlaydi?",
     "variantlar": [
       "Murakkab matematik formulalar orqali",
       "Yangi nuqtaga eng yaqin bo‘lgan «K» ta qo‘shnining sinfiga qarab qaror qabul qiladi",
@@ -419,7 +569,18 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Soddadill Bayes algoritmi nima uchun «Sodda» (Naive) deb ataladi?",
+    "savol": "47.KNN algoritmidagi «K» nima?",
+    "variantlar": [
+      "Klasslar soni",
+      "Xatolik koeffitsienti",
+      "E'tiborga olinadigan eng yaqin qo‘shnilar soni",
+      "Ma'lumotlar o‘lchami"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "48.Soddadill Bayes algoritmi nima uchun «Sodda» (Naive) deb ataladi?",
     "variantlar": [
       "U juda sekin ishlaydi",
       "U barcha belgilarni bir-biridan mustaqil deb faraz qiladi",
@@ -430,7 +591,40 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Klasterlash masalasining maqsadi nima?",
+    "savol": "49.Soddadill Bayes qaysi teoremaga asoslanadi?",
+    "variantlar": [
+      "Pifagor teoremasi",
+      "Nyuton qonunlari",
+      "Bayes teoremasi",
+      "Eyler teoremasi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "50.KNN algoritmining asosiy kamchiligi nimada?",
+    "variantlar": [
+      "O‘qitish jarayoni juda murakkab",
+      "Katta hajmdagi ma'lumotlarda har bir yangi nuqta uchun masofani hisoblash ko‘p vaqt oladi",
+      "Aniqligi juda past",
+      "Faqat 2 klass bilan ishlaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "51.Nazoratsiz o‘qitish uchun ishlatiladigan ma'lumotlar to‘plamining o‘ziga xosligi nimada?",
+    "variantlar": [
+      "Har bir ma'lumot qatorida aniq javob (belgi) mavjud",
+      "Ma'lumotlar belgilanmagan, ya'ni javob yo‘q",
+      "Ma'lumotlar faqat tasvirlardan iborat",
+      "Ma'lumotlar hajmi juda kichik"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "52.Klasterlash masalasining maqsadi nima?",
     "variantlar": [
       "O‘xshash xususiyatlarga ega bo‘lgan ob'ektlarni guruhlarga (klasterlarga) ajratish",
       "«Kelajakdagi qiymatni bashorat qilish»",
@@ -441,18 +635,81 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "K-Means algoritmi qanday ishlaydi?",
+    "savol": "53.K-Means algoritmi qanday ishlaydi?",
     "variantlar": [
       "Daraxt shoxlari orqali qaror qabul qiladi",
       "Har bir nuqta orasidagi masofani hisoblaydi",
-      "Ma'lumotlarni «K» ta markaz (sentroid) atrofida guruhlaydi va markazlarni iterativ",
+      "Ma'lumotlarni «K» ta markaz (sentroid) atrofida guruhlaydi va markazlarni iterativ tarzda yangilab boradi",
       "Neyron tarmoq orqali ishlaydi"
     ],
     "togri": 2
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Adashish matritsasi (Confusion Matrix) nima?",
+    "savol": "54.O‘lchamlarni qisqartirish nega kerak?",
+    "variantlar": [
+      "Ma'lumotlar sonini ko‘paytirish uchun",
+      "Ma'lumotlardagi muhim ma'lumotni saqlab qolgan holda o‘zgaruvchilar (ustunlar) sonini kamaytirish va vizuallashtirish uchun",
+      "Internet tezligini oshirish uchun",
+      "Faqat matnli ma'lumotlarni o‘chirish uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "55.PCA (Asosiy komponentlar tahlili) qaysi turdagi algoritm hisoblanadi?",
+    "variantlar": [
+      "Klaslarga bo‘lish",
+      "Regressiya",
+      "O‘lchamlarni qisqartirish",
+      "Mustahkamlovchi o‘qitish"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "56.Anomallikni aniqlash qaerda ishlatiladi?",
+    "variantlar": [
+      "Havo rayini aniqlashda",
+      "Bank firibgarligini va tizimdagi nosozliklarni aniqlashda",
+      "O‘yin o‘ynashda",
+      "Matnni tarjima qilishda"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "57.Iyerarxik klasterlash natijasi qanday ko‘rinishda tasvirlanadi?",
+    "variantlar": [
+      "To‘g‘ri chiziq",
+      "Dendrogramma (Daraxtsimon tuzilish)",
+      "Doira",
+      "Jadval"
+    ],
+    "togri": 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "58.Adashish matritsasi (Confusion Matrix) nima?",
     "variantlar": [
       "Neyron tarmog‘ining vaznlari jadvali",
       "Klassifikatsiyalash modeli natijalarini (TP, TN, FP, FN) ko‘rsatuvchi jadval",
@@ -463,7 +720,29 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Aniqlik darajasi (Precision) nimani anglatadi?",
+    "savol": "59.«Aniqlik» (Accuracy) metrikasi qanday hisoblanadi?",
+    "variantlar": [
+      "To‘g‘ri topilgan barcha bashoratlar sonining umumiy bashoratlar soniga nisbati",
+      "Faqatgina o‘ng klaslarning to‘g‘ri topilishi",
+      "Xato topilganlarning umumiy soniga nisbati",
+      "O‘rtacha kvadratik xatolik"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "60.Agar ma'lumotlar to‘plamida klasslar balansi buzilgan bo‘lsa, qaysi metrika ishonchli?",
+    "variantlar": [
+      "Aniqlik (Accuracy)",
+      "F1-Score (Precision va Recall uyg‘unligi)",
+      "MSE",
+      "R-kvadrat"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "61.Aniqlik darajasi (Precision) nimani anglatadi?",
     "variantlar": [
       "Model barcha ijobiy klasslarni qanchalik topa olgani",
       "Model «Pozitiv» deb bashorat qilganlarning qanchasi haqiqatdan ham musbat ekanligi",
@@ -474,7 +753,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Qamrov (Recall) nimani anglatadi?",
+    "savol": "62.Qamrov (Recall) nimani anglatadi?",
     "variantlar": [
       "Haqiqiy musbat sinflarning qanchasini model to‘g‘ri topa olgani",
       "Xato bashoratlar soni",
@@ -485,7 +764,94 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Sun'iy neyron tarmoqlari nimadan ilhomlanib yaratilgan?",
+    "savol": "63.Regressiya modellari natijadorligini baholashda qaysi ko‘rsatkich qo‘llaniladi?",
+    "variantlar": [
+      "Aniqlik (Accuracy)",
+      "F1 - ball",
+      "MAE (o‘rtacha absolyut xato) va MSE (o‘rtacha kvadrat xato)",
+      "Adashishlar matritsasi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "64.MAE (O‘rtacha absolyut xatolik) qanday hisoblanadi?",
+    "variantlar": [
+      "Xatolarni kvadratga ko‘tarib yig‘ish orqali",
+      "Prognoz va haqiqiy qiymat orasidagi farqning absolyut qiymatlari o‘rtachasini olish orqali",
+      "To‘g‘ri javoblar foizini hisoblash orqali",
+      "Logarifmik hisoblash orqali"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "65.Kross-validatsiya nima maqsadda ishlatiladi?",
+    "variantlar": [
+      "Modelni tezroq o‘qitish uchun",
+      "Modelning tanish bo‘lmagan ma'lumotlarda qanday ishlashini isonchliroq baholash va «haddan tashqari o‘qitish»ning oldini olish uchun",
+      "Ma'lumotlarni ko‘paytirish uchun",
+      "Dastur kodini tekshirish uchun"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "66.«K-Fold cross-validation»da ma'lumotlar necha qismga bo‘linadi?",
+    "variantlar": [
+      "Faqat 2 bo‘limga",
+      "K ta teng bo‘lakka",
+      "100 bo‘limga",
+      "Bo‘linmaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "67.Og‘ish (Bias) va Dispersiya (Variance) orasidagi muvozanat nimani anglatadi?",
+    "variantlar": [
+      "Bias va Dispersiya barcha vaqtda 0 bo‘lishi kerak",
+      "Model juda oddiy bo‘lsa, «High bias», juda murakkab bo‘lsa, «High variance» bo‘ladi; optimal nuqtani topish kerak",
+      "Bias yuqori bo‘lsa, dispersiya da yuqori bo‘ladi",
+      "Bu tushunchalar ML da qo‘llanilmaydi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "68.O‘qimay qolish (Underfitting) holati qachon yuz beradi?",
+    "variantlar": [
+      "O‘quv ma'lumotlarini yodlab olganda",
+      "Model juda oddiy bo‘lib, ma'lumotlardagi qonuniyatni ilg‘ay olmaganda",
+      "Ma'lumotlar juda ko‘p bo‘lganda",
+      "Test natijalari yuqori bo‘lganda"
+    ],
+    "togri": 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "69.Sun'iy neyron tarmoqlari nimadan ilhomlanib yaratilgan?",
     "variantlar": [
       "Kompyuter protsessoridan",
       "Inson miyasining biologik neyron tuzilishidan",
@@ -496,7 +862,18 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Eng oddiy neyron tarmoq modeli qanday ataladi?",
+    "savol": "70.Biologik neyrondagi «Dendrit» sun'iy neyronda nimaga to‘g‘ri keladi?",
+    "variantlar": [
+      "Kirish signallarini qabul qiluvchi bo‘lim",
+      "Chiqish signali",
+      "Aktivlashtirish funksiyasi",
+      "Vazn (og‘irlik) koeffitsienti"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "71.Eng oddiy neyron tarmoq modeli qanday ataladi?",
     "variantlar": [
       "Transformator",
       "CNN",
@@ -507,7 +884,18 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Neyron tarmoqda w (og‘irlik/vazn) nimani bildiradi?",
+    "savol": "72.Frenk Rozenblatt tomonidan yaratilgan Perseptron nima qila oladi?",
+    "variantlar": [
+      "Har qanday murakkab funksiyani hisoblaydi",
+      "Faqat chiziqli ajraladigan masalalarni yecha oladi",
+      "Tasvirlarni tushunadi",
+      "Matn yozadi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "73.Neyron tarmoqda w (og‘irlik/vazn) nimani bildiradi?",
     "variantlar": [
       "«Neyronning rangini»",
       "Kiruvchi signalning ahamiyat darajasini",
@@ -518,10 +906,43 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Faollashtirish (Aktivlashtirish) funksiyasi nima uchun kerak?",
+    "savol": "74.b (bias - siljitish) parametri neyron uchun nima vazifani bajaradi?",
+    "variantlar": [
+      "Barcha qiymatlarni 0 ga aylantiradi",
+      "Vaznlarni yo‘q qiladi",
+      "Aktivlashtirish funksiyasini siljitish orqali modelga moslashuvchanlik beradi (y=wx+b dagi b kabi)",
+      "Kiradigan signallarni to‘sadi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "75.Neyron tarmog‘ining «Yashirin qatlami» qaerda joylashadi?",
+    "variantlar": [
+      "Tarmoqning eng boshida",
+      "Tarmoqning eng oxirida",
+      "Kiruvchi va chiquvchi qatlamlar orasida",
+      "Neyron tarmoqda yashirin qatlam bo‘lmaydi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "76.«Chuqur o‘qitish» (Deep learning) oddiy neyron tarmoqdan nimasi bilan farq qiladi?",
+    "variantlar": [
+      "Yashirin qatlamlar soni ko‘pligi bilan (odatda 2 va undan ortiq)",
+      "Faqat bir neyron ishlashi bilan",
+      "Hech qanday farqi yo‘q",
+      "Faqat chiziqli funksiyalar qo‘llanilishi bilan"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "77.Faollashtirish (Aktivlashtirish) funksiyasi nima uchun kerak?",
     "variantlar": [
       "Barcha qiymatlarni o‘n qilish uchun",
-      "Tarmoqqa nochiiziqlilik kiritish uchun, aks holda tarmoq oddiy chiziqli regressiya bo‘lib qoladi",
+      "Tarmoqqa nochiziqlilik kiritish uchun, aks holda tarmoq oddiy chiziqli regressiya bo‘lib qoladi",
       "Hisoblashni tezlashtirish uchun",
       "Vaznlarni o‘chirish uchun"
     ],
@@ -529,7 +950,40 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«To‘g‘riga uzatish» (Forward propagation) jarayoni nima?",
+    "savol": "78.Sigmoid aktivlashtirish funksiyasi qiymatlarni qaysi oraliqda chiqaradi?",
+    "variantlar": [
+      "[0, 0,5]",
+      "[-1, 1]",
+      "[0, 1]",
+      "(-5)"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "79.ReLU funksiyasi qanday ishlaydi?",
+    "variantlar": [
+      "Barcha sonlarni kvadratga oshiradi",
+      "Manfiy sonlarni 0 ga aylantiradi, musbat sonlarni o‘zgarishsiz qoldiradi (max (0, x))",
+      "Barcha sonlarni 1 ga aylantiradi",
+      "-1 va 1 oralig‘iga qisadi"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "80.Tanh (Giperbolik tangens) funksiyasining chiqish oralig‘i qanday?",
+    "variantlar": [
+      "[0, 1]",
+      "[-1, 1]",
+      "[0, 100]",
+      "[1, 2]"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "81.«To‘g‘riga uzatish» (Forward propagation) jarayoni nima?",
     "variantlar": [
       "Xatoni ortga qaytarish",
       "Ma'lumotlarning kirish qatlamidan chiqish qatlamiga qarab harakatlanishi va natija hisoblanishi",
@@ -540,7 +994,92 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Neyron tarmoqlarda o‘qitish jarayoni aslida nimani anglatadi?",
+    "savol": "82.«To‘liq bog‘langan qatlam» (Fully connected/Dense layer) nima?",
+    "variantlar": [
+      "Neyronlari bir-biri bilan bog‘lanmagan qatlam",
+      "Bir qatlamdagi barcha neyronlar keyingi qatlamdagi barcha neyronlar bilan to‘liq bog‘langan tuzilma",
+      "Faqat bir neyronga ega qatlam",
+      "Tasvirlarni qayta ishlovchi qatlam"
+    ],
+    "togri": 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "83.Binar (ikki klassli) klassifikatsiyalash masalasida neyron tarmog‘ining chiqish qatlamida nechta neyron bo‘ladi?",
+    "variantlar": [
+      "1 (Sigmoid funksiyasi bilan)",
+      "10 dona",
+      "100 dona",
+      "0"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "84.Ko‘p klassli (Multiclass, masalan, 10 ta klass) masalada chiqish qatlamida nechta neyron bo‘lishi kerak?",
+    "variantlar": [
+      "1 dona",
+      "Klasslar soniga teng (masalan, 10 ta)",
+      "2 dona",
+      "Xohlagancha"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "85.XOR (Mantiqiy «YOKI-EMAS») muammosi neyron tarmoqlar tarixida nimani ko‘rsatdi?",
+    "variantlar": [
+      "Perseptronlar hamma narsaga qobiliyatli ekanligini",
+      "Bitta qatlamli (yashirin qatlamsiz) Perseptron chiziqli ajralmaydigan masalalarni (XOR kabi) yecha olmasligini",
+      "Kompyuterlar fikrlay olishini",
+      "Neyron tarmoqlar ishlamasligini"
+    ],
+    "togri": 1
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "86.Ko‘p qavatli neyron tarmoq (Multilayer Perceptron - MLP) XOR masalasini yecha oladimi?",
+    "variantlar": [
+      "Ha, yashirin qatlamlar va nochiiziqli funksiyalar hisobiga",
+      "Yo‘q, hech qachon",
+      "Faqat katta kompyuterda yecha oladi",
+      "Faqat to‘satdan yecha oladi"
+    ],
+    "togri": 0
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "87.Neyron tarmog‘ini «Qora quti» (Black box) deyishlarining sababi nima?",
+    "variantlar": [
+      "Uning rangi qora",
+      "U faqat qorong‘ida ishlaydi",
+      "Tarmoq qanday qaror qabul qilayotganini ichki murakkab hisob-kitoblar tufayli inson tushunishi va talqin qilishi qiyin",
+      "Uning ishini ochib bo‘lmaydi"
+    ],
+    "togri": 2
+  },
+  {
+    "fan": "Sun'iy intellekt asoslari",
+    "savol": "88.Neyron tarmoqlarda o‘qitish jarayoni aslida nimani anglatadi?",
     "variantlar": [
       "Neyronlar sonini o‘zgartirishni",
       "Xatolikni kamaytirish uchun w (vaznlar) va b (siljitishlar) qiymatlarini optimallashtirish",
@@ -549,32 +1088,9 @@
     ],
     "togri": 1
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "One-Hot Encoding usuli nima uchun ishlatiladi?",
+    "savol": "89.One-Hot Encoding usuli nima uchun ishlatiladi?",
     "variantlar": [
       "Tasvirlarni kodlash uchun",
       "Kategoriyali (matnli) klaslarni (masalan: «Mushuk,» «Kuchuk,» «Ot») neyron tarmoq tushunadigan [1, 0, 0] ko‘rinishidagi vektorlarga o‘tkazish uchun",
@@ -583,9 +1099,29 @@
     ],
     "togri": 1
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Softmax funksiyasi odatda qaerda ishlatiladi?",
+    "savol": "90.Softmax funksiyasi odatda qaerda ishlatiladi?",
     "variantlar": [
       "Yashirin qatlamlarda",
       "Ko‘p klassli klassifikatsiyalash masalasida chiqish qatlamida (ehtimolliklarni taqsimlash uchun)",
@@ -596,7 +1132,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Neyron tarmoq arxitekturasini tanlashda «Kirish qatlami»dagi neyronlar soni nimaga bog‘liq?",
+    "savol": "91.Neyron tarmoq arxitekturasini tanlashda «Kirish qatlami»dagi neyronlar soni nimaga bog‘liq?",
     "variantlar": [
       "Dasturchining xohishiga",
       "Kiruvchi ma'lumotlarning o‘lchamiga",
@@ -607,7 +1143,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "To‘plam (Batch) nima?",
+    "savol": "92.To‘plam (Batch) nima?",
     "variantlar": [
       "Butun ma'lumotlar bazasi",
       "Modelni bir marta yangilash uchun ishlatiladigan ma'lumotlarning kichik bo‘limi",
@@ -618,7 +1154,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Davr (Epoxa) tushunchasi nimani bildiradi?",
+    "savol": "93.Davr (Epoxa) tushunchasi nimani bildiradi?",
     "variantlar": [
       "Bir dona ma'lumotni o‘qitish",
       "Butun o‘quv ma'lumotlar to‘plamining neyron tarmoqdan bir marta to‘liq o‘tib chiqishi",
@@ -629,7 +1165,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«O‘lgan neyron» (Dying ReLU) muammosi asosan qaysi aktivlashtirish funksiyasida uchraydi?",
+    "savol": "94.«O‘lgan neyron» (Dying ReLU) muammosi asosan qaysi aktivlashtirish funksiyasida uchraydi?",
     "variantlar": [
       "ReLU (manfiy qiymatlarda 0 bo‘lib qolganda)",
       "Sigmoid",
@@ -640,10 +1176,10 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Vaznlarni inisializatsiya qilish (boshlang‘ich qiymat berish) nega muhim?",
+    "savol": "95.Vaznlarni inisializatsiya qilish (boshlang‘ich qiymat berish) nega muhim?",
     "variantlar": [
       "Muhim emas, hammasini 0 qilsa bo‘ladi",
-      "Agar barcha vaznlar 0 yoki bir xil bo‘lsa, neyronlar bir xil o‘rganadi;  tasodifiy ",
+      "Agar barcha vaznlar 0 yoki bir xil bo‘lsa, neyronlar bir xil o‘rganadi; shuning uchun tasodifiy kichik qiymatlar beriladi",
       "Katta sonlar berish kerak",
       "Faqat 1 qiymatini berish kerak"
     ],
@@ -651,7 +1187,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Bias (siljitish) bo‘lmasa, faollashtirish funksiyasi har doim qaerdan o‘tadi?",
+    "savol": "96.Bias (siljitish) bo‘lmasa, faollashtirish funksiyasi har doim qaerdan o‘tadi?",
     "variantlar": [
       "(1, 1) nuqtadan",
       "Koordinata boshidan (0, 0)",
@@ -662,18 +1198,18 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Sinov matritsasida «Yolg‘on musbat» (False Positive) nima?",
+    "savol": "97.Sinov matritsasida «Yolg‘on musbat» (False Positive) nima?",
     "variantlar": [
       "Kasal odamni kasal deb topish",
       "Sog‘lom odamni sog‘lom deb bilish",
-      "Modelning «Musbat» (masalan, kasal) deb xato bashorat qilishi (aslida u manfiy/sog‘lom) - ",
+      "Modelning «Musbat» (masalan, kasal) deb xato bashorat qilishi (aslida u manfiy/sog‘lom) - I turdagi xatolik",
       "Kasal odamni sog‘lom deb xato topish"
     ],
     "togri": 2
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Qaysi metrika modelning «o‘ta ishonchi» haqida ma'lumot bermaydi, faqat to‘g‘ri yoki noto‘g‘riligini aytadi?",
+    "savol": "98.Qaysi metrika modelning «o‘ta ishonchi» haqida ma'lumot bermaydi, faqat to‘g‘ri yoki noto‘g‘riligini aytadi?",
     "variantlar": [
       "Aniqlik (Accuracy)",
       "Log-loss (kross-entropiya yo‘qolishi)",
@@ -684,7 +1220,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Validation to‘plami» Test to‘plamidan nima bilan farq qiladi?",
+    "savol": "99.«Validation to‘plami» Test to‘plamidan nima bilan farq qiladi?",
     "variantlar": [
       "Validatsiya - o‘qish jarayonida model parametrlarini (giperparametrlarni) sozlash uchun qo‘llaniladi; Test - faqat yakuniy baholash uchun",
       "Farqi yo‘q",
@@ -695,7 +1231,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Teskari tarqalish (Backpropagation) algoritmining asosiy vazifasi nima?",
+    "savol": "100.Teskari tarqalish (Backpropagation) algoritmining asosiy vazifasi nima?",
     "variantlar": [
       "Neyron tarmog‘ining kiruvchi ma'lumotlarini o‘zgartirish",
       "Xatolik funksiyasi gradientini hisoblash va vaznlarni yangilash orqali xatolikni minimallashtirish",
@@ -706,7 +1242,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ortga tarqalish matematik tahlilda qaysi qoidaga asoslanadi?",
+    "savol": "101.Ortga tarqalish matematik tahlilda qaysi qoidaga asoslanadi?",
     "variantlar": [
       "Pifagor teoremasi",
       "Nyutonning ikkinchi qonuni",
@@ -717,7 +1253,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Teskari tarqalish jarayoni qaysi yo‘nalishda amalga oshiriladi?",
+    "savol": "102.Teskari tarqalish jarayoni qaysi yo‘nalishda amalga oshiriladi?",
     "variantlar": [
       "Kirish qatlamidan chiqish qatlamiga qarab",
       "Chiqish qatlamidan kirish qatlamiga qarab",
@@ -728,18 +1264,37 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Gradientning yo‘qolishi» (Vanishing gradient) muammosi nima?",
+    "savol": "103.«Gradientning yo‘qolishi» (Vanishing gradient) muammosi nima?",
     "variantlar": [
       "Gradient juda ulkan bo‘lib ketishi",
-      "Ko‘p qatlamli tarmoqlarda ortga qaytishda gradientning nolga yaqinlashib, quyi qatlamlarning",
+      "Ko‘p qatlamli tarmoqlarda ortga qaytishda gradientning nolga yaqinlashib, quyi qatlamlarning o‘qimay qolishi",
       "Tarmoqning tez ishlashi",
       "Kompyuter o‘chib qolishi"
     ],
     "togri": 1
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Yo‘qotish (Loss) funksiyasi nimani anglatadi?",
+    "savol": "104.Yo‘qotish (Loss) funksiyasi nimani anglatadi?",
     "variantlar": [
       "Modelning qanchalik to‘g‘ri ishlashini",
       "Model bashorati va haqiqiy qiymat o‘rtasidagi farqni (jarimani)",
@@ -750,7 +1305,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Binar kross-entropiya» qaysi turdagi masalalar uchun qo‘llaniladi?",
+    "savol": "105.«Binar kross-entropiya» qaysi turdagi masalalar uchun qo‘llaniladi?",
     "variantlar": [
       "Regressiya",
       "Binar (2 klassli) klassifikatsiyalash",
@@ -761,7 +1316,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Kategoriyali kross-entropiya» funksiyasi qachon ishlatiladi?",
+    "savol": "106.«Kategoriyali kross-entropiya» funksiyasi qachon ishlatiladi?",
     "variantlar": [
       "Binar klassifikatsiyada",
       "Regressiya",
@@ -771,7 +1326,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Gradient tushishi algoritmining maqsadi nima?",
+    "savol": "107.Gradient tushishi algoritmining maqsadi nima?",
     "variantlar": [
       "Funksiyaning maksimum nuqtasini topish",
       "Yo‘qotish funksiyasining global minimumini topish",
@@ -782,7 +1337,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "O‘qitish tezligi (Learning rate) nimani belgilaydi?",
+    "savol": "108.O‘qitish tezligi (Learning rate) nimani belgilaydi?",
     "variantlar": [
       "Epoxalar sonini",
       "Neyronlar sonini",
@@ -793,10 +1348,10 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Agar o‘qitish tezligi juda katta tanlansa, nima yuz beradi?",
+    "savol": "109.Agar o‘qitish tezligi juda katta tanlansa, nima yuz beradi?",
     "variantlar": [
       "Model juda sekin o‘qiydi",
-      "Model optimal nuqtadan sakrab o‘tib ketishi va «Divergentsiya» (uzoqlashish) yuz",
+      "Model optimal nuqtadan sakrab o‘tib ketishi va «Divergentsiya» (uzoqlashish) yuz berishi mumkin",
       "Model darhol to‘xtaydi",
       "Hech narsa o‘zgarmaydi"
     ],
@@ -804,7 +1359,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Agar o‘rganish darajasi juda kichik bo‘lsa, nima kuzatiladi?",
+    "savol": "110.Agar o‘rganish darajasi juda kichik bo‘lsa, nima kuzatiladi?",
     "variantlar": [
       "O‘qitish jarayoni juda sekinlashadi va ko‘p vaqt talap etadi",
       "Model aniqligi tushadi",
@@ -815,10 +1370,10 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Stoxastik gradient tushishining (SGD) oddiy gradient tushishidan farqi nimada?",
+    "savol": "111.Stoxastik gradient tushishining (SGD) oddiy gradient tushishidan farqi nimada?",
     "variantlar": [
       "Farqi yo‘q",
-      "SGD har bir qadamda faqat bitta tasodifiy namunadan foydalanib vaznlarni yangilaydi",
+      "SGD har bir qadamda faqat bitta tasodifiy namunadan foydalanib vaznlarni yangilaydi (tezroq, lekin shovqinli)",
       "SGD butun ma'lumotlar bazasidan foydalanadi",
       "SGD faqat tasvirlar bilan ishlaydi"
     ],
@@ -826,7 +1381,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Kichik partiyali (Mini-batch) gradient tushishi nima?",
+    "savol": "112.Kichik partiyali (Mini-batch) gradient tushishi nima?",
     "variantlar": [
       "Hech qanday ma'lumot qo‘llamaydi",
       "Butun bazani ishlatadi",
@@ -837,7 +1392,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Global minimal» va «lokal minimal» farqi nimada?",
+    "savol": "113.«Global minimal» va «lokal minimal» farqi nimada?",
     "variantlar": [
       "Global - funksiyaning eng quyi nuqtasi, Lokal - ma'lum bir oraliqdagi eng quyi nuqta (tuzoq)",
       "Global - eng yuqori nuqta",
@@ -846,12 +1401,32 @@
     ],
     "togri": 0
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Modelni optimallashtirishda «Adam» algoritmi nega ommabop?",
+    "savol": "114.Modelni optimallashtirishda «Adam» algoritmi nega ommabop?",
     "variantlar": [
       "Eng sekin ishlaydigan algoritm",
-      "U har bir parametr uchun o‘qitish tezligini avtomatik moslashtiradi va inersiya (impuls) f",
+      "U har bir parametr uchun o‘qitish tezligini avtomatik moslashtiradi va inersiya (impuls) dan foydalanadi",
       "U faqat chiziqli modellarda ishlaydi",
       "U xotirani kam egallaydi"
     ],
@@ -859,7 +1434,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Regulyarizatsiya (Regularization) texnikalari (L1, L2) nima uchun ishlatiladi?",
+    "savol": "115.Regulyarizatsiya (Regularization) texnikalari (L1, L2) nima uchun ishlatiladi?",
     "variantlar": [
       "Modelni tezlashtirish uchun",
       "Vaznlarni jarimalash orqali haddan tashqari o‘qitib yuborishning (overfitting) oldini olish uchun",
@@ -870,7 +1445,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Dropout texnikasi qanday ishlaydi?",
+    "savol": "116.Dropout texnikasi qanday ishlaydi?",
     "variantlar": [
       "Barcha neyronlarni o‘chiradi",
       "O‘qish jarayonida tasodifiy neyronlarning ma'lum bir qismini vaqtincha o‘chirib turadi (o‘zaro bog‘liqlikni kamaytirish uchun)",
@@ -881,10 +1456,10 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ma'lumotlarni sun'iy ko‘paytirish (Data Augmentation) nima?",
+    "savol": "117.Ma'lumotlarni sun'iy ko‘paytirish (Data Augmentation) nima?",
     "variantlar": [
       "Bir xil tasvirni nusxalash",
-      "Bor tasvirlarni o‘zgartirish (burish, qirqish, rangini o‘zgartirish) orqali ma'lumotlar",
+      "Bor tasvirlarni o‘zgartirish (burish, qirqish, rangini o‘zgartirish) orqali ma'lumotlar bazasini boyitish",
       "Internetdan yangi tasvirlar yuklab olish",
       "Tasvirlar hajmini kichraytirish"
     ],
@@ -892,7 +1467,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Erta to‘xtatish (Early stopping) usuli qachon qo‘llaniladi?",
+    "savol": "118.Erta to‘xtatish (Early stopping) usuli qachon qo‘llaniladi?",
     "variantlar": [
       "Vaqt tamom bo‘lganda",
       "Kompyuter qiziganda",
@@ -903,7 +1478,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "To‘plamni normallashtirishning (Batch Normalization) foydasi nima?",
+    "savol": "119.To‘plamni normallashtirishning (Batch Normalization) foydasi nima?",
     "variantlar": [
       "Tasvirlarni oq-qora qiladi",
       "Har bir qatlam chiqishini normallashtiradi, bu esa o‘qitishni tezlashtiradi va barqarorlashtiradi",
@@ -914,9 +1489,9 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Parametrlar va giperparametrlar ayirmachiligi nimada?",
+    "savol": "120.Parametrlar va giperparametrlar ayirmachiligi nimada?",
     "variantlar": [
-      "Parametrlar (w, b) model tomonidan o‘rganiladi; Giperparametrlar (o‘qitish tezligi, partiya hajmi)",
+      "Parametrlar (w, b) model tomonidan o‘rganiladi; Giperparametrlar (o‘qitish tezligi, partiya hajmi) inson tomonidan oldindan o‘rnatiladi",
       "Farqi yo‘q",
       "Parametrlar inson tomonidan o‘rnatiladi",
       "Giperparametrlar o‘zgarmas sonlar"
@@ -925,7 +1500,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Davr (Epoxa) va Iteratsiya farqi nima?",
+    "savol": "121.Davr (Epoxa) va Iteratsiya farqi nima?",
     "variantlar": [
       "Ikkalasi ham bir xil",
       "Epoxa - bir tasvir, Iteratsiya - barcha tasvirlar",
@@ -934,9 +1509,32 @@
     ],
     "togri": 2
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Chuqur o‘qitishning an'anaviy Mashinaviy o‘qitishdan asosiy ustunligi nimada?",
+    "savol": "122.Chuqur o‘qitishning an'anaviy Mashinaviy o‘qitishdan asosiy ustunligi nimada?",
     "variantlar": [
       "Kamroq ma'lumot talab etadi",
       "Belgilarni (feature) avtomatik ravishda ajratib oladi, inson aralashuvi shart emas",
@@ -947,7 +1545,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "CNN (Konvolyutsion neyron tarmoqlari) asosan qaysi sohada eng yuqori natija beradi?",
+    "savol": "123.CNN (Konvolyutsion neyron tarmoqlari) asosan qaysi sohada eng yuqori natija beradi?",
     "variantlar": [
       "Ovozli yordamchilar",
       "Jadvaldagi ma'lumotlar (Excel)",
@@ -958,7 +1556,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Kompyuter uchun raqamli tasvir nima?",
+    "savol": "124.Kompyuter uchun raqamli tasvir nima?",
     "variantlar": [
       "Tasvir fayli",
       "Piksellar qiymatlaridan iborat matritsa (sonlar jadvali)",
@@ -969,7 +1567,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "CNN dagi «Burama qatlam»ning (Convolutional layer) vazifasi nima?",
+    "savol": "125.CNN dagi «Burama qatlam»ning (Convolutional layer) vazifasi nima?",
     "variantlar": [
       "Tasvirni kichraytirish",
       "Tasvirdan har turli belgilarni (qirralar, burchaklar, teksturalar) filtrlar yordamida ajratib olish",
@@ -980,7 +1578,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Yadro (Yoki Filtr) nima?",
+    "savol": "126.Yadro (Yoki Filtr) nima?",
     "variantlar": [
       "Ulkan tasvir",
       "Tasvir ustidan siljib o‘tuvchi va belgilarni aniqlovchi kichik vaznlar matritsasi (masalan, 3x3)",
@@ -991,7 +1589,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Qadam» (Stride) tushunchasi CNNda nimani bildiradi?",
+    "savol": "127.«Qadam» (Stride) tushunchasi CNNda nimani bildiradi?",
     "variantlar": [
       "Tasvirlar sonini",
       "Filtrning tasvir ustida harakatlanish qadami",
@@ -1002,7 +1600,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Padding» (To‘ldirish) nima uchun ishlatiladi?",
+    "savol": "128.«Padding» (To‘ldirish) nima uchun ishlatiladi?",
     "variantlar": [
       "Tasvirni ulkaytirish uchun",
       "Konvolyutsiya jarayonida tasvir o‘lchami kichrayib ketmasligi uchun chetlariga nollar qo‘shish (Zero-padding)",
@@ -1013,7 +1611,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Pooling (Hovuzlash) qatlamining, ayniqsa «Max Pooling»ning maqsadi nima?",
+    "savol": "129.Pooling (Hovuzlash) qatlamining, ayniqsa «Max Pooling»ning maqsadi nima?",
     "variantlar": [
       "Belgilarni ko‘paytirish",
       "Tasvir o‘lchamini qisqartirish (hisoblashni kamaytirish) va eng ahamiyatli belgilarni saqlab qolish",
@@ -1024,7 +1622,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Max Pooling qanday ishlaydi?",
+    "savol": "130.Max Pooling qanday ishlaydi?",
     "variantlar": [
       "O‘rtacha qiymatni oladi",
       "Beligilangan oynadagi (masalan, 2x2) eng ulkan qiymatni tanlab oladi",
@@ -1035,7 +1633,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "CNN arxitekturasida «Flatten» (Yassilash) qatlami nima qiladi?",
+    "savol": "131.CNN arxitekturasida «Flatten» (Yassilash) qatlami nima qiladi?",
     "variantlar": [
       "Tasvirni tekislaydi",
       "Ranglarni o‘chiradi",
@@ -1046,7 +1644,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "To‘liq bog‘langan qatlam CNN ning qaysi bo‘limida joylashadi?",
+    "savol": "132.To‘liq bog‘langan qatlam CNN ning qaysi bo‘limida joylashadi?",
     "variantlar": [
       "Eng boshida",
       "Eng oxirida (Klassifikatsiyalash vazifasini bajarish uchun)",
@@ -1057,7 +1655,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Rangli tasvirlash (RGB) nechta kanalga ega?",
+    "savol": "133.Rangli tasvirlash (RGB) nechta kanalga ega?",
     "variantlar": [
       "1 dona",
       "2",
@@ -1068,7 +1666,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Oq-qora tasvir nechta kanalga ega?",
+    "savol": "134.Oq-qora tasvir nechta kanalga ega?",
     "variantlar": [
       "1 dona",
       "3",
@@ -1079,7 +1677,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Agar kirish tasviri 28x28 bo‘lsa va u 3x3 filtr orqali o‘tkazilsa (qadam=1, padding=0), chiqish o‘lchami qanday bo‘ladi?",
+    "savol": "135.Agar kirish tasviri 28x28 bo‘lsa va u 3x3 filtr orqali o‘tkazilsa (qadam=1, padding=0), chiqish o‘lchami qanday bo‘ladi?",
     "variantlar": [
       "28x28",
       "26x26",
@@ -1090,7 +1688,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "CNN nima uchun oddiy MLP (Multi-Layer Perceptron) dan tasvirlar uchun yaxshiroq?",
+    "savol": "136.CNN nima uchun oddiy MLP (Multi-Layer Perceptron) dan tasvirlar uchun yaxshiroq?",
     "variantlar": [
       "CNN sekinroq ishlaydi",
       "CNN piksellarning fazoviy joylashuvini (spatial structure) hisobga oladi va parametrlarni (filtr vaznlarini) butun tasvir bo‘ylab ulashadi",
@@ -1101,7 +1699,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "LeNet-5 arxitekturasi qanday vazifa uchun yaratilgan edi?",
+    "savol": "137.LeNet-5 arxitekturasi qanday vazifa uchun yaratilgan edi?",
     "variantlar": [
       "Inson yuzini tanish",
       "Qo‘lyozma raqamlarni (MNIST) tanish",
@@ -1112,7 +1710,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Belgilar kartasi (Feature map) nima?",
+    "savol": "138.Belgilar kartasi (Feature map) nima?",
     "variantlar": [
       "Google Maps kartasi",
       "Konvolyutsiya amali bajarilgandan so‘ng paydo bo‘lgan natijaviy matritsa",
@@ -1140,17 +1738,9 @@
 
 
 
-
-
-
-
-
-
-
-
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Transfer Learning (O‘tkazma o‘qitish) nima?",
+    "savol": "139.Transfer Learning (O‘tkazma o‘qitish) nima?",
     "variantlar": [
       "Ma'lumotlarni bir kompyuterdan ikkinchisiga o‘tkazish",
       "Katta ma'lumotlarda oldindan o‘qitilgan modelni olib, o‘z masalasiga moslashtirish",
@@ -1161,9 +1751,9 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Tenzor nima?",
+    "savol": "140.Tenzor nima?",
     "variantlar": [
-      "Faqatgina bitta son",
+      "Faqatgina bitta",
       "Faqat vektor",
       "Ko‘p o‘lchamli massivlarning (skalyar, vektor, matritsa) umumiy nomi",
       "Neyron tarmog‘ining nomi"
@@ -1172,7 +1762,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Gradientni qirqish (Gradient clipping) nima uchun ishlatiladi?",
+    "savol": "141.Gradientni qirqish (Gradient clipping) nima uchun ishlatiladi?",
     "variantlar": [
       "Gradientni nolga aylantirish uchun",
       "«Exploding Gradient» (Gradient portlashi) muammosining oldini olish uchun gradient qiymatini cheklash",
@@ -1183,7 +1773,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Inersiya (Momentum) usuli Gradient tushishiga qanday yordam beradi?",
+    "savol": "142.Inersiya (Momentum) usuli Gradient tushishiga qanday yordam beradi?",
     "variantlar": [
       "Tebranishlarni kamaytiradi va lokal minimumdan o‘tib ketishga yordam berib, konvergentsiyani tezlashtiradi",
       "O‘qitishni sekinlashtiradi",
@@ -1194,7 +1784,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Semantik segmentlash (Semantic segmentation) masalasi nimani anglatadi?",
+    "savol": "143.Semantik segmentlash (Semantic segmentation) masalasi nimani anglatadi?",
     "variantlar": [
       "Tasvirdagi ob'ektni to‘rtburchak ichiga olish",
       "Tasvirni «Pishiq» deb atash",
@@ -1205,7 +1795,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ob'ektni aniqlash (Object detection) nimani bajaradi?",
+    "savol": "144.Ob'ektni aniqlash (Object detection) nimani bajaradi?",
     "variantlar": [
       "Faqat klass otini aytadi",
       "Tasvirdagi ob'ektlarni aniqlaydi va ularning joylashuvini ko‘rsatadi (Bounding Box)",
@@ -1216,7 +1806,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "ReLU funksiyasining «Leaky ReLU» varianti nima uchun kerak?",
+    "savol": "145.ReLU funksiyasining «Leaky ReLU» varianti nima uchun kerak?",
     "variantlar": [
       "Musbat sonlarni o‘chirish uchun",
       "«O‘lik neyron» (Dead ReLU) muammosini yechish uchun (manfiy qismda kichik qiymat qaytaradi)",
@@ -1227,9 +1817,9 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "CNNda «Kengaytirilgan konvolyutsiya» (Dilated convolution) nima beradi?",
+    "savol": "146.CNNda «Kengaytirilgan konvolyutsiya» (Dilated convolution) nima beradi?",
     "variantlar": [
-      "Tasvirni kichraytirish",
+      "Tasvirni kichraytiradi",
       "Filtr qamrov maydonini (Receptive field) kattalashtiradi, parametrlar sonini oshirmasdan",
       "Ranglarni o‘zgartiradi",
       "Piksel sifatini buzadi"
@@ -1238,7 +1828,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "1x1 Konvolyutsiya nima maqsadda ishlatiladi?",
+    "savol": "147.1x1 Konvolyutsiya nima maqsadda ishlatiladi?",
     "variantlar": [
       "Hech qanday ta'siri yo‘q",
       "Kanallar sonini (chuqurligini) o‘zgartirish (kamaytirish yoki ko‘paytirish) va nochiiziqlilik qo‘shish uchun",
@@ -1249,7 +1839,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«AlexNet» arxitekturasi nimasi bilan mashhur?",
+    "savol": "148.«AlexNet» arxitekturasi nimasi bilan mashhur?",
     "variantlar": [
       "Birinchi neyron tarmoq",
       "U ishlamadi",
@@ -1260,7 +1850,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "RNN (Rekurrent Neyron Tarmoqlari) ning asosiy qo‘llanish sohasi qaysi?",
+    "savol": "149.RNN (Rekurrent Neyron Tarmoqlari) ning asosiy qo‘llanish sohasi qaysi?",
     "variantlar": [
       "Tasvirlarni klassifikatsiyalash",
       "Ketma-ketlikdagi ma'lumotlarni (matn, nutq, vaqtli qatorlar) qayta ishlash",
@@ -1271,7 +1861,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "RNN ning MLP yoki CNN dan asosiy farqi nimada?",
+    "savol": "150.RNN ning MLP yoki CNN dan asosiy farqi nimada?",
     "variantlar": [
       "Faqat bir qatlamga ega",
       "Yashirin holat (hidden state) yoki «ichki xotira»ga ega bo‘lib, avvalgi ma'lumotlarni keyingi qadamga uzatadi",
@@ -1282,7 +1872,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "RNN dagi «Uzoq muddatli bog‘liqlik» muammosi nimani anglatadi?",
+    "savol": "151.RNN dagi «Uzoq muddatli bog‘liqlik» muammosi nimani anglatadi?",
     "variantlar": [
       "Tarmoq juda sekin ishlaydi",
       "Tarmoq uzoq o‘tmishdagi muhim ma'lumotlarni eslab qola olmasligi",
@@ -1293,7 +1883,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "LSTMning asosiy vazifasi nima?",
+    "savol": "152.LSTMning asosiy vazifasi nima?",
     "variantlar": [
       "Hisoblashni tezlashtirish",
       "Tasvirlarni rangli qilish",
@@ -1304,7 +1894,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "LSTM ning asosiy eshiklari qaysilar?",
+    "savol": "153.LSTM ning asosiy eshiklari qaysilar?",
     "variantlar": [
       "Kirish va chiqish",
       "Unutish (Forget), Kirish (Input), Chiqish (Output)",
@@ -1315,7 +1905,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "GRU LSTM dan qanday farq qiladi?",
+    "savol": "154.GRU LSTM dan qanday farq qiladi?",
     "variantlar": [
       "GRU oddiyroq, chunki u faqat ikkita eshikni ishlatadi",
       "GRU faqat tasvirlar bilan ishlaydi",
@@ -1326,7 +1916,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Sequence to Sequence (Seq2Seq) modeli qaysi masalada keng qo‘llaniladi?",
+    "savol": "155.Sequence to Sequence (Seq2Seq) modeli qaysi masalada keng qo‘llaniladi?",
     "variantlar": [
       "Regressiya",
       "Mashinaviy tarjima (Matnni bir tildan ikkinchisiga ag‘darish)",
@@ -1337,7 +1927,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "BPTT (Time Through Backpropagation) nima?",
+    "savol": "156.BPTT (Time Through Backpropagation) nima?",
     "variantlar": [
       "Vaqtni ortga qaytarish",
       "RNN ni o‘qitishda xatolikni tarmoqning har bir vaqt qadamiga orqaga tarqatish usuli",
@@ -1346,9 +1936,29 @@
     ],
     "togri": 1
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Tabiiy tilni qayta ishlashning asosiy maqsadi nima?",
+    "savol": "157.Tabiiy tilni qayta ishlashning asosiy maqsadi nima?",
     "variantlar": [
       "Faqat texnik tillarni tushunish",
       "Kompyuterlarga inson tilini (yozma va og‘zaki) tushunish, talqin etish va generatsiya qilishni o‘rgatish",
@@ -1359,7 +1969,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Morfologik tahlil nimani o‘rganadi?",
+    "savol": "158.Morfologik tahlil nimani o‘rganadi?",
     "variantlar": [
       "Gapning tuzilishini",
       "So‘zning ichki tuzilishi, o‘zagi va qo‘shimchalarini (o‘zak va morfemalar)",
@@ -1370,18 +1980,17 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Sintaktik tahlil nimani o‘rganadi?",
+    "savol": "159.Sintaktik tahlil nimani o‘rganadi?",
     "variantlar": [
       "So‘zning ma'nosini",
       "Gapning grammatik tuzilishi, so‘zlar orasidagi munosabatlar va to‘g‘ri izchillikni",
-      "So‘zning turini",
-      "Gapdagi harf sonini"
+      "So‘zning turini"
     ],
     "togri": 1
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Semantik tahlil nimani o‘rganadi?",
+    "savol": "160.Semantik tahlil nimani o‘rganadi?",
     "variantlar": [
       "Gapdagi harf sonini",
       "So‘zning morfemalarini",
@@ -1392,7 +2001,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Tokenizatsiya (tokenlarga ajratish) degani nima?",
+    "savol": "161.Tokenizatsiya (tokenlarga ajratish) degani nima?",
     "variantlar": [
       "Matnni tasvirlarga aylantirish",
       "Matnni ma'noli eng kichik birliklarga (so‘zlar, tinish belgilari) bo‘lish jarayoni",
@@ -1403,7 +2012,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«To‘xtash so‘zlari» (Stop words) deganda nima tushuniladi?",
+    "savol": "162.«To‘xtash so‘zlari» (Stop words) deganda nima tushuniladi?",
     "variantlar": [
       "Ahamiyatli ma'noga ega bo‘lgan so‘zlar",
       "Matnda tez-tez uchraydigan, biroq kam ma'noga ega bo‘lgan so‘zlar (masalan: «va,» «bilan,» «ning»)",
@@ -1414,10 +2023,10 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Stemming (So‘z o‘zagini topish) va Lemmatizatsiya orasidagi asosiy farq nima?",
+    "savol": "163.Stemming (So‘z o‘zagini topish) va Lemmatizatsiya orasidagi asosiy farq nima?",
     "variantlar": [
       "Lemmatizatsiya tezroq",
-      "Stemming qo‘shimchalarni shunchaki kesib tashlaydi; Lemmatizatsiya esa lug‘at yordamida so‘zni o‘zining asosiy formasiga qaytaradi",
+      "Stemming qo‘shimchalarni shunchaki kesib tashlaydi (noto‘g‘ri so‘z hosil bo‘lishi mumkin); Lemmatizatsiya esa lug‘at yordamida so‘zni o‘zining asosiy formasiga (lemma) qaytaradi",
       "Stemming faqat o‘zbek tilida qo‘llaniladi",
       "Lemmatizatsiya faqat otlar uchun"
     ],
@@ -1425,7 +2034,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "So‘z vektorlari nima?",
+    "savol": "164.So‘z vektorlari nima?",
     "variantlar": [
       "Matnning uzunligi",
       "So‘zning oddiy harf ko‘rinishi",
@@ -1436,7 +2045,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Word2Vec modeli qanday ishlaydi?",
+    "savol": "165.Word2Vec modeli qanday ishlaydi?",
     "variantlar": [
       "Tasvirlarni tahlil qiladi",
       "So‘zning kontekstini (atrofidagi so‘zlarni) bashorat qilish yoki kontekstdan so‘zni bashorat qilish orqali so‘z vektorlarini o‘rganadi",
@@ -1447,7 +2056,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "TF-IDF (term frequency-inverse document frequency) nimani hisoblaydi?",
+    "savol": "166.TF-IDF (term frequency-inverse document frequency) nimani hisoblaydi?",
     "variantlar": [
       "Gapning grammatikasini",
       "Belgili bir so‘zning hujjatdagi nisbiy ahamiyatini",
@@ -1458,7 +2067,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Diqqat mexanizmining (Attention mechanism) asosiy g‘oyasi nima?",
+    "savol": "167.Diqqat mexanizmining (Attention mechanism) asosiy g‘oyasi nima?",
     "variantlar": [
       "Dasturni to‘xtatish",
       "Har bir ma'lumotga bir xil ahamiyat berish",
@@ -1469,7 +2078,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Transformator (Transformer) arxitekturasi asosan qaysi mexanizmga asoslangan?",
+    "savol": "168.Transformator (Transformer) arxitekturasi asosan qaysi mexanizmga asoslangan?",
     "variantlar": [
       "Qaytimlilik",
       "Konvolyutsiya",
@@ -1480,7 +2089,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "BERT, GPT kabi Katta Til Modellarining (LLM) asosiy arxitekturasi qaysi?",
+    "savol": "169.BERT, GPT kabi Katta Til Modellarining (LLM) asosiy arxitekturasi qaysi?",
     "variantlar": [
       "RNN",
       "LSTM",
@@ -1491,7 +2100,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Fikr tahlili» (Sentiment analysis) qanday vazifani bajaradi?",
+    "savol": "170.«Fikr tahlili» (Sentiment analysis) qanday vazifani bajaradi?",
     "variantlar": [
       "Matnni tarjima qilish",
       "Matndagi fikr, kayfiyat yoki hissiyotni aniqlash (ijobiy, salbiy, neytral)",
@@ -1502,7 +2111,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "NOMLANGAN OB'EKTLARNI AJRATISH (NER) nima?",
+    "savol": "171.NOMLANGAN OB'EKTLARNI AJRATISH (NER) nima?",
     "variantlar": [
       "Gapdagi fe'llarni topish",
       "Matndagi shaxs ismlari, tashkilotlar, o‘rinlar, sanalar kabi maxsus ob'ektlarni aniqlash",
@@ -1511,9 +2120,28 @@
     ],
     "togri": 1
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "SI dagi «Etika va kamsitish» muammosi nimada ko‘rinadi?",
+    "savol": "172.SI dagi «Etika va kamsitish» muammosi nimada ko‘rinadi?",
     "variantlar": [
       "O‘qitish ma'lumotlaridagi tengsizliklar sababli modelning ma'lum guruhlarga nisbatan adolatsiz yoki noto‘g‘ri qarorlar chiqarishi",
       "Modelning tez ishlashi",
@@ -1524,7 +2152,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "XAI (Tushunarli AI) ning maqsadi nima?",
+    "savol": "173.XAI (Tushunarli AI) ning maqsadi nima?",
     "variantlar": [
       "SI ni yashirish",
       "SI modelining qanday qilib qaror qabul qilayotganini inson tushuna oladigan tarzda tushuntirish",
@@ -1535,7 +2163,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Konvolyutsiya (CNN) va Rekurrentlik (RNN) birgalikda qaysi masalada ishlatiladi?",
+    "savol": "174.Konvolyutsiya (CNN) va Rekurrentlik (RNN) birgalikda qaysi masalada ishlatiladi?",
     "variantlar": [
       "Regressiyada",
       "Tasvirlarga tavsif berish (Image Captioning) va video tahlilda",
@@ -1546,7 +2174,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Mustahkamlovchi o‘qitishni qaysi sohada qo‘llash eng natijali?",
+    "savol": "175.Mustahkamlovchi o‘qitishni qaysi sohada qo‘llash eng natijali?",
     "variantlar": [
       "Elektron jadvallarni tahlil qilish",
       "Robototexnika, avtonom haydash va o‘yin o‘ynash (AlphaGo)",
@@ -1557,7 +2185,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Haddan tashqari o‘qitib yuborishning (overfitting) oldini olish usullariga nimalar kiradi?",
+    "savol": "176.Haddan tashqari o‘qitib yuborishning (overfitting) oldini olish usullariga nimalar kiradi?",
     "variantlar": [
       "Bilim olish darajasini orttirish",
       "Dropout, Regularization (L1/L2), Early Stopping va ma'lumotlarni ko‘paytirish (Augmentation)",
@@ -1568,7 +2196,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Giperparametrlarga nimalar misol bo‘la oladi?",
+    "savol": "177.Giperparametrlarga nimalar misol bo‘la oladi?",
     "variantlar": [
       "Vaznlar (w)",
       "O‘rganish tezligi, partiya hajmi, qatlamlar soni, aktivlashtirish funksiyasi turi",
@@ -1579,7 +2207,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Bayes tarmoqlari qanday turdagi bilimlarni ifodalash uchun qo‘llaniladi?",
+    "savol": "178.Bayes tarmoqlari qanday turdagi bilimlarni ifodalash uchun qo‘llaniladi?",
     "variantlar": [
       "Chiziqli tenglamalar",
       "Ehtimollik va sabab-oqibat bog‘lanishlari",
@@ -1590,7 +2218,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Ekspert tizimlarining xulosa chiqarish mashinasida qanday yondashuvlar qo‘llaniladi?",
+    "savol": "179.Ekspert tizimlarining xulosa chiqarish mashinasida qanday yondashuvlar qo‘llaniladi?",
     "variantlar": [
       "Tasodifiy tanlov",
       "To‘g‘ri zanjir (Forward chaining) va Teskari zanjir (Backward chaining)",
@@ -1601,7 +2229,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "NLP da «Transfer Learning» ning eng aniq misoli qaysi?",
+    "savol": "180.NLP da «Transfer Learning» ning eng aniq misoli qaysi?",
     "variantlar": [
       "Word2Vec ni o‘qitish",
       "BERT, GPT kabi oldindan o‘qitilgan ulkan til modellaridan foydalanish",
@@ -1612,7 +2240,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Qaysi metrika klassifikatsiyada klasslar teng vaznli emas bo‘lganda eng ishonchli?",
+    "savol": "181.Qaysi metrika klassifikatsiyada klasslar teng vaznli emas bo‘lganda eng ishonchli?",
     "variantlar": [
       "Aniqlik (Accuracy)",
       "F1 - baho",
@@ -1623,7 +2251,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Chiziqli regressiyada optimal koeffitsientlarni topishda analitik yechim beruvchi usul nima deb ataladi?",
+    "savol": "182.Chiziqli regressiyada optimal koeffitsientlarni topishda analitik yechim beruvchi usul nima deb ataladi?",
     "variantlar": [
       "Normal tenglama (Normal equation)",
       "Gradient tushishi",
@@ -1634,7 +2262,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "CNN qatlamlaridagi vaznlar (filtrlar) butun tasvir bo‘ylab taqsimlanishi nima uchun muhim?",
+    "savol": "183.CNN qatlamlaridagi vaznlar (filtrlar) butun tasvir bo‘ylab taqsimlanishi nima uchun muhim?",
     "variantlar": [
       "Modelni sekinlashtiradi",
       "Parametrlar sonini keskin kamaytiradi va modelni natijaliroq etadi",
@@ -1645,10 +2273,10 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Noaniq mantiqning (Fuzzy logic) kiritish (fazzifikatsiya) jarayoni nima qiladi?",
+    "savol": "184.Noaniq mantiqning (Fuzzy logic) kiritish (fazzifikatsiya) jarayoni nima qiladi?",
     "variantlar": [
       "Aniq qiymatlarni yo‘q etadi",
-      "Aniq (crisp) sonli qiymatlarni lingvistik o‘zgaruvchilarga (masalan, «baland») mos keluvchi noaniq to‘plamlar a'zolik darajasiga (0 dan 1 gacha) o‘tkazadi",
+      "Aniq (crisp) sonli qiymatlarni lingvistik o‘zgaruvchilarga mos keluvchi noaniq to‘plamlar a'zolik darajasiga (0 dan 1 gacha) o‘tkazadi",
       "Faqat 0 yoki 1 qiymatini oladi",
       "Sonlarni matnga aylantiradi"
     ],
@@ -1656,7 +2284,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Agent muhitining «stoxastik» bo‘lishi nimani anglatadi?",
+    "savol": "185.Agent muhitining «stoxastik» bo‘lishi nimani anglatadi?",
     "variantlar": [
       "Keyingi holat oldindan to‘liq aniq",
       "Keyingi holat biroz tasodifiy yuzaga keluvchi faktorlarga bog‘liq va oldindan to‘liq bashorat qilib bo‘lmaydi",
@@ -1667,7 +2295,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "XOR masalasini yecha olmagan birinchi neyron tarmog‘ining nomi nima?",
+    "savol": "186.XOR masalasini yecha olmagan birinchi neyron tarmog‘ining nomi nima?",
     "variantlar": [
       "CNN",
       "Perseptron (bir qatlamli)",
@@ -1678,7 +2306,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Nazoratsiz o‘qitishdan olingan natijalarni baholashda qaysi o‘lchovlar qo‘llaniladi?",
+    "savol": "187.Nazoratsiz o‘qitishdan olingan natijalarni baholashda qaysi o‘lchovlar qo‘llaniladi?",
     "variantlar": [
       "Aniqlik (Accuracy)",
       "F1-BAHOLASH",
@@ -1689,7 +2317,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Chiziqli regressiyada Xarajat (Cost) funksiyasi minimumga yetganda, bu nimani anglatadi?",
+    "savol": "188.Chiziqli regressiyada Xarajat (Cost) funksiyasi minimumga yetganda, bu nimani anglatadi?",
     "variantlar": [
       "Model to‘xtadi",
       "Modelning vaznlari (koeffitsientlari) optimal qiymatga yetdi",
@@ -1700,7 +2328,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Deep Learning ni Machine Learning dan ajratib turuvchi asosiy element nima?",
+    "savol": "189.Deep Learning ni Machine Learning dan ajratib turuvchi asosiy element nima?",
     "variantlar": [
       "Faqat ulkan ma'lumotlar",
       "Ko‘p sonli yashirin qatlamlar va murakkab belgilarni avtomatik o‘rganish",
@@ -1711,7 +2339,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "SI ning dastlabki rivojlanish bosqichidagi «Qoidalar tizimi» nima edi?",
+    "savol": "190.SI ning dastlabki rivojlanish bosqichidagi «Qoidalar tizimi» nima edi?",
     "variantlar": [
       "Matematik funksiyalar",
       "Inson ekspertining bilimini IF-THEN qoidalari orqali kodlash",
@@ -1722,7 +2350,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Modelning umumlashtirish (Generalization) qobiliyati nimani anglatadi?",
+    "savol": "191.Modelning umumlashtirish (Generalization) qobiliyati nimani anglatadi?",
     "variantlar": [
       "Modelning tezligi",
       "Modelning o‘qitishda ko‘rmagan yangi ma'lumotlarda ham yuqori aniqlik ko‘rsata olishi",
@@ -1733,7 +2361,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "RNN dagi holat vektori (h_t) qanday yangilanadi?",
+    "savol": "192.RNN dagi holat vektori (h_t) qanday yangilanadi?",
     "variantlar": [
       "Faqat kiruvchi x_t ga bog‘liq",
       "Oldingi holat h_{t-1} va hozirgi kirish x_t ga bog‘liq",
@@ -1744,7 +2372,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "NLP da «Paradigmatik tahlil» (Morfologiyaning bir bo‘limi) qanday vazifani bajaradi?",
+    "savol": "193.NLP da «Paradigmatik tahlil» (Morfologiyaning bir bo‘limi) qanday vazifani bajaradi?",
     "variantlar": [
       "Gapning ma'nosini tushunish",
       "So‘zning o‘zgarish formalarini (turlanish, tuslanish, son kabi) o‘rganish",
@@ -1755,7 +2383,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Sun'iy neyronning yig‘ish funksiyasiga kirishidan oldin nima yuz beradi?",
+    "savol": "194.Sun'iy neyronning yig‘ish funksiyasiga kirishidan oldin nima yuz beradi?",
     "variantlar": [
       "Aktivlashtirish funksiyasi qo‘llaniladi",
       "Har bir kirish o‘zining mos vazni (w) bilan ko‘paytiriladi",
@@ -1766,7 +2394,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Tyuring testi tanqidlariga nimalar kiradi?",
+    "savol": "195.Tyuring testi tanqidlariga nimalar kiradi?",
     "variantlar": [
       "Test juda murakkab",
       "Test faqat tashqi xatti-harakatga (aqlli ko‘rinishga) e'tibor qaratadi, haqiqiy anglash va fikrlash talab etilmaydi",
@@ -1777,7 +2405,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "K-yaqin qo‘shnilar (KNN) qanday turdagi algoritm hisoblanadi?",
+    "savol": "196.K-yaqin qo‘shnilar (KNN) qanday turdagi algoritm hisoblanadi?",
     "variantlar": [
       "Parametrik (belgili funksiyaga asoslangan)",
       "Parametrik emas (Ma'lumotga bog‘liq funksiya hosil qilmaydi)",
@@ -1788,7 +2416,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "Deep Learning ning qaysi arxitekturasi tasvir va videoda ob'ektni kuzatish (Tracking) uchun ishlatiladi?",
+    "savol": "197.Deep Learning ning qaysi arxitekturasi tasvir va videoda ob'ektni kuzatish (Tracking) uchun ishlatiladi?",
     "variantlar": [
       "MLP",
       "Soddadill Bayes",
@@ -1799,7 +2427,7 @@
   },
   {
     "fan": "Sun'iy intellekt asoslari",
-    "savol": "«Sun'iy intellekt» atamasining asosiy g‘oyasi nima?",
+    "savol": "198.«Sun'iy intellekt» atamasining asosiy g‘oyasi nima?",
     "variantlar": [
       "Faqat insonlarga xizmat ko‘rsatish",
       "Kompyuterlarni tezlashtirish",
@@ -1808,6 +2436,10 @@
     ],
     "togri": 2
   },
+
+
+
+
 
 
 
